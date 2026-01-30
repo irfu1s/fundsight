@@ -1,0 +1,705 @@
+scheme_code,scheme_name,canonical_scheme_name,match_key,category,is_active
+100033,ADITYA BIRLA SUN LIFE LARGE & MID CAP FUND -,Aditya Birla Sun Life Large & Mid Cap Fund -,adityabirlasunlifelargemidcap,mid_cap,True
+100034,ADITYA BIRLA SUN LIFE LARGE & MID CAP FUND - -,Aditya Birla Sun Life Large & Mid Cap Fund - -,adityabirlasunlifelargemidcap,mid_cap,True
+100080,DSP FLEXI CAP FUND - -,Dsp Flexi Cap Fund - -,dspflexicap,multi_cap,True
+100176,QUANT SMALL CAP FUND - -,Quant Small Cap Fund - -,quantsmallcap,small_cap,True
+100177,QUANT SMALL CAP FUND - -,Quant Small Cap Fund - -,quantsmallcap,small_cap,True
+100218,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+100219,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+100312,LIC MF FLEXI CAP FUND- -,Lic Mf Flexi Cap Fund- -,licmfflexicap,multi_cap,True
+100313,LIC MF FLEXI CAP FUND- -,Lic Mf Flexi Cap Fund- -,licmfflexicap,multi_cap,True
+100332,LIC MF LARGE CAP FUND- -,Lic Mf Large Cap Fund- -,licmflargecap,large_cap,True
+100348,ICICI PRUDENTIAL LARGE & MID CAP FUND -,Icici Prudential Large & Mid Cap Fund -,iciciprudentiallargemidcap,mid_cap,True
+100349,ICICI PRUDENTIAL LARGE & MID CAP FUND -,Icici Prudential Large & Mid Cap Fund -,iciciprudentiallargemidcap,mid_cap,True
+100470,FRANKLIN INDIA LARGE CAP FUND -,Franklin India Large Cap Fund -,franklinlargecap,large_cap,True
+100471,FRANKLIN INDIA LARGE CAP FUND-,Franklin India Large Cap Fund-,franklinlargecap,large_cap,True
+100472,FRANKLIN INDIA MID CAP FUND -,Franklin India Mid Cap Fund -,franklinmidcap,mid_cap,True
+100473,FRANKLIN INDIA MID CAP FUND-,Franklin India Mid Cap Fund-,franklinmidcap,mid_cap,True
+100475,TATA LARGE CAP FUND - -,Tata Large Cap Fund - -,tatalargecap,large_cap,True
+100476,TAURUS FLEXI CAP FUND - -,Taurus Flexi Cap Fund - -,taurusflexicap,multi_cap,True
+100477,TAURUS MID CAP FUND - -,Taurus Mid Cap Fund - -,taurusmidcap,mid_cap,True
+100484,FRANKLIN INDIA INDEX FUND- NSE NIFTY 50 INDEX FUND -,Franklin India Index Fund- Nse Nifty 50 Index Fund -,franklinindexnsenifty50index,index_fund,True
+100519,FRANKLIN INDIA FLEXI CAP FUND -,Franklin India Flexi Cap Fund -,franklinflexicap,multi_cap,True
+100520,FRANKLIN INDIA FLEXI CAP FUND -,Franklin India Flexi Cap Fund -,franklinflexicap,multi_cap,True
+100630,QUANT MULTI CAP FUND- -,Quant Multi Cap Fund- -,quantmulticap,multi_cap,True
+100631,QUANT MULTI CAP FUND- -,Quant Multi Cap Fund- -,quantmulticap,multi_cap,True
+100650,UTI LARGE CAP FUND - -,Uti Large Cap Fund - -,utilargecap,large_cap,True
+100651,UTI LARGE CAP FUND - -,Uti Large Cap Fund - -,utilargecap,large_cap,True
+100663,UTI LARGE & MID CAP FUND - -,Uti Large & Mid Cap Fund - -,utilargemidcap,mid_cap,True
+100664,UTI LARGE & MID CAP FUND - -,Uti Large & Mid Cap Fund - -,utilargemidcap,mid_cap,True
+100668,UTI FLEXI CAP FUND - -,Uti Flexi Cap Fund - -,utiflexicap,multi_cap,True
+100669,UTI - FLEXI CAP FUND-,Uti - Flexi Cap Fund-,utiflexicap,multi_cap,True
+100794,SUNDARAM SMALL CAP FUND - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Small Cap Fund - Income Distribution Cum Capital Withdrawal ( ),sundaramsmallcapincomedistributioncumcapitalwithdrawal,small_cap,True
+100795,SUNDARAM SMALL CAP FUND -,Sundaram Small Cap Fund -,sundaramsmallcap,small_cap,True
+100822,UTI NIFTY 50 INDEX FUND - -,Uti Nifty 50 Index Fund - -,utinifty50index,index_fund,True
+100823,UTI NIFTY 50 INDEX FUND - -,Uti Nifty 50 Index Fund - -,utinifty50index,index_fund,True
+101065,QUANT MID CAP FUND - -,Quant Mid Cap Fund - -,quantmidcap,mid_cap,True
+101066,QUANT MID CAP FUND - -,Quant Mid Cap Fund - -,quantmidcap,mid_cap,True
+101161,NIPPON INDIA MULTI CAP FUND- -,Nippon India Multi Cap Fund- -,nipponmulticap,multi_cap,True
+101162,NIPPON INDIA MULTI CAP FUND- -,Nippon India Multi Cap Fund- -,nipponmulticap,multi_cap,True
+101163,NIPPON INDIA MULTI CAP FUND -,Nippon India Multi Cap Fund -,nipponmulticap,multi_cap,True
+101198,LIC MF BSE SENSEX INDEX FUND- -,Lic Mf Bse Sensex Index Fund- -,licmfbsesensexindex,index_fund,True
+101199,LIC MF BSE SENSEX INDEX FUND- -,Lic Mf Bse Sensex Index Fund- -,licmfbsesensexindex,index_fund,True
+101200,LIC MF NIFTY 50 INDEX FUND- -,Lic Mf Nifty 50 Index Fund- -,licmfnifty50index,index_fund,True
+101201,LIC MF NIFTY 50 INDEX FUND- -,Lic Mf Nifty 50 Index Fund- -,licmfnifty50index,index_fund,True
+101209,TAURUS LARGE CAP FUND - -,Taurus Large Cap Fund - -,tauruslargecap,large_cap,True
+101228,ICICI PRUDENTIAL MULTICAP FUND -,Icici Prudential Multicap Fund -,iciciprudentialmulticap,multi_cap,True
+101281,HDFC BSE SENSEX INDEX FUND -,Hdfc Bse Sensex Index Fund -,hdfcbsesensexindex,index_fund,True
+101313,ADITYA BIRLA SUN LIFE NIFTY 50 INDEX FUND - -,Aditya Birla Sun Life Nifty 50 Index Fund - -,adityabirlasunlifenifty50index,index_fund,True
+101314,ADITYA BIRLA SUN LIFE NIFTY 50 INDEX FUND - -,Aditya Birla Sun Life Nifty 50 Index Fund - -,adityabirlasunlifenifty50index,index_fund,True
+101349,ICICI PRUDENTIAL NIFTY 50 INDEX FUND - CUMULATIVE,Icici Prudential Nifty 50 Index Fund - Cumulative,iciciprudentialnifty50indexcumulative,index_fund,True
+101525,HDFC NIFTY 50 INDEX FUND -,Hdfc Nifty 50 Index Fund -,hdfcnifty50index,index_fund,True
+101530,SBI LARGE & MIDCAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Large & Midcap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbilargemidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+101538,SUNDARAM MID CAP FUND - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Mid Cap Fund - Income Distribution Cum Capital Withdrawal ( ),sundarammidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+101539,SUNDARAM MID CAP FUND -,Sundaram Mid Cap Fund -,sundarammidcap,mid_cap,True
+101591,ADITYA BIRLA SUN LIFE MIDCAP FUND - -,Aditya Birla Sun Life Midcap Fund - -,adityabirlasunlifemidcap,mid_cap,True
+101592,ADITYA BIRLA SUN LIFE MIDCAP FUND-,Aditya Birla Sun Life Midcap Fund-,adityabirlasunlifemidcap,mid_cap,True
+101593,HSBC LARGE CAP FUND -,Hsbc Large Cap Fund -,hsbclargecap,large_cap,True
+101594,HSBC LARGE CAP FUND -,Hsbc Large Cap Fund -,hsbclargecap,large_cap,True
+101635,DSP LARGE CAP FUND - -,Dsp Large Cap Fund - -,dsplargecap,large_cap,True
+101636,DSP LARGE CAP FUND - -,Dsp Large Cap Fund - -,dsplargecap,large_cap,True
+101659,TATA NIFTY 50 INDEX FUND -,Tata Nifty 50 Index Fund -,tatanifty50index,index_fund,True
+101705,ICICI PRUDENTIAL BSE SENSEX ETF,Icici Prudential Bse Sensex Etf,iciciprudentialbsesensexetf,index_fund,True
+101706,ICICI PRUDENTIAL MULTICAP FUND -,Icici Prudential Multicap Fund -,iciciprudentialmulticap,multi_cap,True
+101746,TATA S&P BSE SENSEX INDEX FUND -,Tata S&P Bse Sensex Index Fund -,tataspbsesensexindex,index_fund,True
+101762,HDFC FLEXI CAP FUND -,Hdfc Flexi Cap Fund -,hdfcflexicap,multi_cap,True
+101763,HDFC FLEXI CAP FUND -,Hdfc Flexi Cap Fund -,hdfcflexicap,multi_cap,True
+101823,TATA LARGE & MID CAP FUND - OF,Tata Large & Mid Cap Fund - Of,tatalargemidcapof,mid_cap,True
+101824,TATA LARGE & MID CAP FUND- -,Tata Large & Mid Cap Fund- -,tatalargemidcap,mid_cap,True
+101922,CANARA ROBECO FLEXICAP FUND - -,Canara Robeco Flexicap Fund - -,canararobecoflexicap,multi_cap,True
+101923,CANARA ROBECO FLEXICAP FUND - - ( / ),Canara Robeco Flexicap Fund - - ( / ),canararobecoflexicap,multi_cap,True
+102000,HDFC LARGE CAP FUND - -,Hdfc Large Cap Fund - -,hdfclargecap,large_cap,True
+102001,HDFC LARGE CAP FUND - -,Hdfc Large Cap Fund - -,hdfclargecap,large_cap,True
+102020,BARODA BNP PARIBAS MULTI CAP FUND - -,Baroda Bnp Paribas Multi Cap Fund - -,barodabnpparibasmulticap,multi_cap,True
+102021,BARODA BNP PARIBAS MULTI CAP FUND - -,Baroda Bnp Paribas Multi Cap Fund - -,barodabnpparibasmulticap,multi_cap,True
+102036,TATA LARGE CAP FUND- - OF,Tata Large Cap Fund- - Of,tatalargecapof,large_cap,True
+102133,ICICI PRUDENTIAL MULTI SECTOR PASSIVE FOF -,Icici Prudential Multi Sector Passive Fof -,iciciprudentialmultisectorpassivefof,index_fund,True
+102134,ICICI PRUDENTIAL MULTI SECTOR PASSIVE FOF -,Icici Prudential Multi Sector Passive Fof -,iciciprudentialmultisectorpassivefof,index_fund,True
+102251,HSBC FLEXI CAP FUND -,Hsbc Flexi Cap Fund -,hsbcflexicap,multi_cap,True
+102252,HSBC FLEXI CAP FUND -,Hsbc Flexi Cap Fund -,hsbcflexicap,multi_cap,True
+102272,SBI NIFTY INDEX FUND - -,Sbi Nifty Index Fund - -,sbiniftyindex,index_fund,True
+102273,SBI NIFTY INDEX FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Nifty Index Fund - - Income Distribution Cum Capital Withdrawal ( ),sbiniftyindexincomedistributioncumcapitalwithdrawal,index_fund,True
+102326,TATA MID CAP FUND- -,Tata Mid Cap Fund- -,tatamidcap,mid_cap,True
+102328,TATA MID CAP FUND -,Tata Mid Cap Fund -,tatamidcap,mid_cap,True
+102393,UTI MID CAP FUND - -,Uti Mid Cap Fund - -,utimidcap,mid_cap,True
+102394,UTI MID CAP FUND-,Uti Mid Cap Fund-,utimidcap,mid_cap,True
+102528,ICICI PRUDENTIAL MIDCAP FUND -,Icici Prudential Midcap Fund -,iciciprudentialmidcap,mid_cap,True
+102529,ICICI PRUDENTIAL MIDCAP FUND -,Icici Prudential Midcap Fund -,iciciprudentialmidcap,mid_cap,True
+102874,KOTAK SMALL CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Kotak Small Cap Fund - Of Income Distribution Cum Capital Withdrawal,kotaksmallcapofincomedistributioncumcapitalwithdrawal,small_cap,True
+102875,KOTAK SMALL CAP FUND -,Kotak Small Cap Fund -,kotaksmallcap,small_cap,True
+102883,FRANKLIN INDIA LARGE & MID CAP FUND -,Franklin India Large & Mid Cap Fund -,franklinlargemidcap,mid_cap,True
+102884,FRANKLIN INDIA LARGE & MID CAP FUND -,Franklin India Large & Mid Cap Fund -,franklinlargemidcap,mid_cap,True
+102920,CANARA ROBECO LARGE AND MID CAP FUND - -,Canara Robeco Large And Mid Cap Fund - -,canararobecolargeandmidcap,mid_cap,True
+102921,CANARA ROBECO LARGE AND MID CAP FUND - - ( / ),Canara Robeco Large And Mid Cap Fund - - ( / ),canararobecolargeandmidcap,mid_cap,True
+102941,SBI MIDCAP FUND - -,Sbi Midcap Fund - -,sbimidcap,mid_cap,True
+102942,SBI MIDCAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Midcap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbimidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+103024,SBI LARGE & MIDCAP FUND- -,Sbi Large & Midcap Fund- -,sbilargemidcap,mid_cap,True
+103165,ADITYA BIRLA SUN LIFE FLEXI CAP FUND - -,Aditya Birla Sun Life Flexi Cap Fund - -,adityabirlasunlifeflexicap,multi_cap,True
+103166,ADITYA BIRLA SUN LIFE FLEXI CAP FUND - -,Aditya Birla Sun Life Flexi Cap Fund - -,adityabirlasunlifeflexicap,multi_cap,True
+103173,ADITYA BIRLA SUN LIFE LARGE CAP FUND- -,Aditya Birla Sun Life Large Cap Fund- -,adityabirlasunlifelargecap,large_cap,True
+103174,ADITYA BIRLA SUN LIFE LARGE CAP FUND-,Aditya Birla Sun Life Large Cap Fund-,adityabirlasunlifelargecap,large_cap,True
+103215,SBI FLEXICAP FUND - -,Sbi Flexicap Fund - -,sbiflexicap,multi_cap,True
+103216,SBI FLEXICAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Flexicap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbiflexicapincomedistributioncumcapitalwithdrawal,multi_cap,True
+103233,KOTAK LARGE & MIDCAP FUND - -,Kotak Large & Midcap Fund - -,kotaklargemidcap,mid_cap,True
+103234,KOTAK LARGE & MIDCAP FUND - -,Kotak Large & Midcap Fund - -,kotaklargemidcap,mid_cap,True
+103360,FRANKLIN INDIA SMALL CAP FUND-,Franklin India Small Cap Fund-,franklinsmallcap,small_cap,True
+103361,FRANKLIN INDIA SMALL CAP FUND -,Franklin India Small Cap Fund -,franklinsmallcap,small_cap,True
+103504,SBI LARGE CAP FUND-,Sbi Large Cap Fund-,sbilargecap,large_cap,True
+103616,SBI LARGE CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Large Cap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbilargecapincomedistributioncumcapitalwithdrawal,large_cap,True
+103819,DSP LARGE & MID CAP FUND - -,Dsp Large & Mid Cap Fund - -,dsplargemidcap,mid_cap,True
+103820,DSP LARGE & MID CAP FUND - -,Dsp Large & Mid Cap Fund - -,dsplargemidcap,mid_cap,True
+104481,DSP MIDCAP FUND - -,Dsp Midcap Fund - -,dspmidcap,mid_cap,True
+104482,DSP MIDCAP FUND - -,Dsp Midcap Fund - -,dspmidcap,mid_cap,True
+104513,QUANT LARGE & MID CAP FUND -,Quant Large & Mid Cap Fund -,quantlargemidcap,mid_cap,True
+104514,QUANT LARGE & MID CAP FUND - -,Quant Large & Mid Cap Fund - -,quantlargemidcap,mid_cap,True
+104515,QUANT LARGE & MID CAP FUND - -,Quant Large & Mid Cap Fund - -,quantlargemidcap,mid_cap,True
+104907,KOTAK MIDCAP FUND - - - & RE INVESTMENT OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Kotak Midcap Fund - - - & Re Investment Of Income Distribution Cum Capital Withdrawal,kotakmidcapreinvestmentofincomedistributioncumcapitalwithdrawal,mid_cap,True
+104908,KOTAK MIDCAP FUND - -,Kotak Midcap Fund - -,kotakmidcap,mid_cap,True
+105000,SUNDARAM LARGE AND MIDCAP - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Large And Midcap - Income Distribution Cum Capital Withdrawal ( ),sundaramlargeandmidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+105001,SUNDARAM LARGE AND MIDCAP FUND -,Sundaram Large And Midcap Fund -,sundaramlargeandmidcap,mid_cap,True
+105067,FRANKLIN INDIA INDEX FUND- NSE NIFTY 50 INDEX FUND -,Franklin India Index Fund- Nse Nifty 50 Index Fund -,franklinindexnsenifty50index,index_fund,True
+105503,INVESCO INDIA MIDCAP FUND - -,Invesco India Midcap Fund - -,invescomidcap,mid_cap,True
+105504,INVESCO INDIA MIDCAP FUND - - ( / ),Invesco India Midcap Fund - - ( / ),invescomidcap,mid_cap,True
+105757,HDFC MID CAP FUND -,Hdfc Mid Cap Fund -,hdfcmidcap,mid_cap,True
+105758,HDFC MID CAP FUND -,Hdfc Mid Cap Fund -,hdfcmidcap,mid_cap,True
+105804,ADITYA BIRLA SUN LIFE SMALL CAP FUND -,Aditya Birla Sun Life Small Cap Fund -,adityabirlasunlifesmallcap,small_cap,True
+105805,ADITYA BIRLA SUN LIFE SMALL CAP FUND - -,Aditya Birla Sun Life Small Cap Fund - -,adityabirlasunlifesmallcap,small_cap,True
+105875,DSP FLEXI CAP FUND - -,Dsp Flexi Cap Fund - -,dspflexicap,multi_cap,True
+105989,DSP SMALL CAP FUND - -,Dsp Small Cap Fund - -,dspsmallcap,small_cap,True
+106143,INVESCO INDIA LARGE & MID CAP FUND - - ( / ),Invesco India Large & Mid Cap Fund - - ( / ),invescolargemidcap,mid_cap,True
+106144,INVESCO INDIA LARGE & MID CAP FUND - -,Invesco India Large & Mid Cap Fund - -,invescolargemidcap,mid_cap,True
+106193,KOTAK GOLD ETF,Kotak Gold Etf,kotakgoldetf,index_fund,True
+106235,NIPPON INDIA LARGE CAP FUND- -,Nippon India Large Cap Fund- -,nipponlargecap,large_cap,True
+106236,NIPPON INDIA LARGE CAP FUND -,Nippon India Large Cap Fund -,nipponlargecap,large_cap,True
+106240,NIPPON INDIA LARGE CAP FUND-,Nippon India Large Cap Fund-,nipponlargecap,large_cap,True
+106260,NIPPON INDIA MID CAP FUND - INSTITUTIONAL -,Nippon India Mid Cap Fund - Institutional -,nipponmidcapinstitutional,mid_cap,True
+106822,ICICI PRUDENTIAL SMALLCAP FUND -,Icici Prudential Smallcap Fund -,iciciprudentialsmallcap,small_cap,True
+106823,ICICI PRUDENTIAL SMALLCAP FUND -,Icici Prudential Smallcap Fund -,iciciprudentialsmallcap,small_cap,True
+106871,LIC MF LARGE CAP FUND- -,Lic Mf Large Cap Fund- -,licmflargecap,large_cap,True
+106929,KOTAK NIFTY PSU BANK ETF,Kotak Nifty Psu Bank Etf,kotakniftypsubanketf,index_fund,True
+107352,INVESCO INDIA MULTICAP FUND - - ( / ),Invesco India Multicap Fund - - ( / ),invescomulticap,multi_cap,True
+107353,INVESCO INDIA MULTICAP FUND - -,Invesco India Multicap Fund - -,invescomulticap,multi_cap,True
+107578,MIRAE ASSET LARGE CAP FUND -,Mirae Asset Large Cap Fund -,miraeassetlargecap,large_cap,True
+107579,MIRAE ASSET LARGE CAP FUND,Mirae Asset Large Cap Fund,miraeassetlargecap,large_cap,True
+108403,TAURUS LARGE CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Large Cap Fund - - Of Income Distribution Cum Capital Withdrawal,tauruslargecapofincomedistributioncumcapitalwithdrawal,large_cap,True
+108465,ICICI PRUDENTIAL LARGE CAP FUND (ERSTWHILE BLUECHIP FUND) -,Icici Prudential Large Cap Fund (Erstwhile Bluechip Fund) -,iciciprudentiallargecaperstwhilebluechip,large_cap,True
+108466,ICICI PRUDENTIAL LARGE CAP FUND (ERSTWHILE BLUECHIP FUND) -,Icici Prudential Large Cap Fund (Erstwhile Bluechip Fund) -,iciciprudentiallargecaperstwhilebluechip,large_cap,True
+108479,QUANTUM NIFTY 50 ETF,Quantum Nifty 50 Etf,quantumnifty50etf,index_fund,True
+108594,BANDHAN FLEXI CAP FUND - -,Bandhan Flexi Cap Fund - -,bandhanflexicap,multi_cap,True
+108595,BANDHAN FLEXI CAP FUND - -,Bandhan Flexi Cap Fund - -,bandhanflexicap,multi_cap,True
+108596,BANDHAN LARGE & MID CAP FUND - -,Bandhan Large & Mid Cap Fund - -,bandhanlargemidcap,mid_cap,True
+108597,BANDHAN LARGE & MID CAP FUND - -,Bandhan Large & Mid Cap Fund - -,bandhanlargemidcap,mid_cap,True
+108799,BANDHAN LARGE CAP FUND - -,Bandhan Large Cap Fund - -,bandhanlargecap,large_cap,True
+108800,BANDHAN LARGE CAP FUND - -,Bandhan Large Cap Fund - -,bandhanlargecap,large_cap,True
+109010,KOTAK BSE SENSEX ETF,Kotak Bse Sensex Etf,kotakbsesensexetf,index_fund,True
+109522,JM FLEXICAP FUND ( ) -,Jm Flexicap Fund ( ) -,jmflexicap,multi_cap,True
+109523,JM FLEXICAP FUND ( ) -,Jm Flexicap Fund ( ) -,jmflexicap,multi_cap,True
+109830,QUANT FLEXI CAP FUND - -,Quant Flexi Cap Fund - -,quantflexicap,multi_cap,True
+109831,QUANT FLEXI CAP FUND - -,Quant Flexi Cap Fund - -,quantflexicap,multi_cap,True
+110598,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+110599,BANK OF INDIA LARGE & MID CAP FUND ECO -,Bank Of India Large & Mid Cap Fund Eco -,bankoflargemidcapeco,mid_cap,True
+110601,BANK OF INDIA LARGE & MID CAP FUND ECO -,Bank Of India Large & Mid Cap Fund Eco -,bankoflargemidcapeco,mid_cap,True
+110603,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+110604,BANK OF INDIA LARGE & MID CAP FUND ECO -,Bank Of India Large & Mid Cap Fund Eco -,bankoflargemidcapeco,mid_cap,True
+110606,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+110607,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+110608,BANK OF INDIA LARGE & MID CAP FUND ECO -,Bank Of India Large & Mid Cap Fund Eco -,bankoflargemidcapeco,mid_cap,True
+111640,TAURUS FLEXI CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Flexi Cap Fund - - Of Income Distribution Cum Capital Withdrawal,taurusflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+111642,TAURUS MID CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Mid Cap Fund - - Of Income Distribution Cum Capital Withdrawal,taurusmidcapofincomedistributioncumcapitalwithdrawal,mid_cap,True
+111935,EDELWEISS LARGE CAP FUND - B -,Edelweiss Large Cap Fund - B -,edelweisslargecapb,large_cap,True
+111936,EDELWEISS LARGE CAP FUND - -,Edelweiss Large Cap Fund - -,edelweisslargecap,large_cap,True
+111937,EDELWEISS LARGE CAP FUND - C -,Edelweiss Large Cap Fund - C -,edelweisslargecapc,large_cap,True
+111938,EDELWEISS LARGE CAP FUND - B -,Edelweiss Large Cap Fund - B -,edelweisslargecapb,large_cap,True
+111939,EDELWEISS LARGE CAP FUND - C -,Edelweiss Large Cap Fund - C -,edelweisslargecapc,large_cap,True
+111940,EDELWEISS LARGE CAP FUND - -,Edelweiss Large Cap Fund - -,edelweisslargecap,large_cap,True
+111954,SBI GOLD ETF,Sbi Gold Etf,sbigoldetf,index_fund,True
+112089,KOTAK FLEXICAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Kotak Flexicap Fund - Of Income Distribution Cum Capital Withdrawal,kotakflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+112090,KOTAK FLEXICAP FUND -,Kotak Flexicap Fund -,kotakflexicap,multi_cap,True
+112098,INVESCO INDIA LARGECAP FUND - -,Invesco India Largecap Fund - -,invescolargecap,large_cap,True
+112099,INVESCO INDIA LARGECAP FUND - - ( / ),Invesco India Largecap Fund - - ( / ),invescolargecap,large_cap,True
+112277,AXIS LARGE CAP FUND - -,Axis Large Cap Fund - -,axislargecap,large_cap,True
+112278,AXIS LARGE CAP FUND - -,Axis Large Cap Fund - -,axislargecap,large_cap,True
+112327,BANDHAN CONSERVATIVE HYBRID PASSIVE FOF - -,Bandhan Conservative Hybrid Passive Fof - -,bandhanconservativehybridpassivefof,index_fund,True
+112328,BANDHAN CONSERVATIVE HYBRID PASSIVE FOF - -,Bandhan Conservative Hybrid Passive Fof - -,bandhanconservativehybridpassivefof,index_fund,True
+112329,BANDHAN MULTI ASSET PASSIVE FOF - -,Bandhan Multi Asset Passive Fof - -,bandhanmultiassetpassivefof,index_fund,True
+112330,BANDHAN MULTI ASSET PASSIVE FOF - -,Bandhan Multi Asset Passive Fof - -,bandhanmultiassetpassivefof,index_fund,True
+112331,BANDHAN AGGRESSIVE HYBRID PASSIVE FOF - -,Bandhan Aggressive Hybrid Passive Fof - -,bandhanaggressivehybridpassivefof,index_fund,True
+112332,BANDHAN AGGRESSIVE HYBRID PASSIVE FOF - -,Bandhan Aggressive Hybrid Passive Fof - -,bandhanaggressivehybridpassivefof,index_fund,True
+112351,KOTAK NIFTY 50 ETF,Kotak Nifty 50 Etf,kotaknifty50etf,index_fund,True
+112495,L&T MID CAP FUND- -,L&T Mid Cap Fund- -,ltmidcap,mid_cap,True
+112496,L&T MID CAP FUND- -,L&T Mid Cap Fund- -,ltmidcap,mid_cap,True
+112877,BANDHAN NIFTY 50 INDEX FUND - -,Bandhan Nifty 50 Index Fund - -,bandhannifty50index,index_fund,True
+112878,BANDHAN NIFTY 50 INDEX FUND - -,Bandhan Nifty 50 Index Fund - -,bandhannifty50index,index_fund,True
+112931,MIRAE ASSET LARGE & MIDCAP FUND - -,Mirae Asset Large & Midcap Fund - -,miraeassetlargemidcap,mid_cap,True
+112932,MIRAE ASSET LARGE & MIDCAP FUND - -,Mirae Asset Large & Midcap Fund - -,miraeassetlargemidcap,mid_cap,True
+112943,BARODA LARGE CAP FUND - A -,Baroda Large Cap Fund - A -,barodalargecapa,large_cap,True
+112944,BARODA LARGE CAP FUND - A -,Baroda Large Cap Fund - A -,barodalargecapa,large_cap,True
+112948,TAURUS NIFTY 50 INDEX FUND - -,Taurus Nifty 50 Index Fund - -,taurusnifty50index,index_fund,True
+112949,TAURUS NIFTY 50 INDEX FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Nifty 50 Index Fund - - Of Income Distribution Cum Capital Withdrawal,taurusnifty50indexofincomedistributioncumcapitalwithdrawal,index_fund,True
+112957,ICICI PRUDENTIAL NIFTY NEXT 50 INDEX FUND -,Icici Prudential Nifty Next 50 Index Fund -,iciciprudentialniftynext50index,index_fund,True
+112958,ICICI PRUDENTIAL NIFTY NEXT 50 INDEX FUND -,Icici Prudential Nifty Next 50 Index Fund -,iciciprudentialniftynext50index,index_fund,True
+113049,HDFC GOLD ETF -,Hdfc Gold Etf -,hdfcgoldetf,index_fund,True
+113062,IDBI NIFTY 50 INDEX FUND,Idbi Nifty 50 Index Fund,idbinifty50index,index_fund,True
+113063,IDBI NIFTY 50 INDEX FUND,Idbi Nifty 50 Index Fund,idbinifty50index,index_fund,True
+113069,MOTILAL OSWAL NIFTY 50 ETF,Motilal Oswal Nifty 50 Etf,motilaloswalnifty50etf,index_fund,True
+113076,ICICI PRUDENTIAL GOLD ETF,Icici Prudential Gold Etf,iciciprudentialgoldetf,index_fund,True
+113153,DSP SMALL CAP FUND - -,Dsp Small Cap Fund - -,dspsmallcap,small_cap,True
+113177,NIPPON INDIA SMALL CAP FUND - -,Nippon India Small Cap Fund - -,nipponsmallcap,small_cap,True
+113178,NIPPON INDIA SMALL CAP FUND - -,Nippon India Small Cap Fund - -,nipponsmallcap,small_cap,True
+113179,NIPPON INDIA SMALL CAP FUND -,Nippon India Small Cap Fund -,nipponsmallcap,small_cap,True
+113221,CANARA ROBECO LARGE CAP FUND - -,Canara Robeco Large Cap Fund - -,canararobecolargecap,large_cap,True
+113222,CANARA ROBECO LARGE CAP FUND - - ( / ),Canara Robeco Large Cap Fund - - ( / ),canararobecolargecap,large_cap,True
+113249,IDBI NIFTY NEXT 50 INDEX FUND,Idbi Nifty Next 50 Index Fund,idbiniftynext50index,index_fund,True
+113250,IDBI NIFTY NEXT 50 INDEX FUND,Idbi Nifty Next 50 Index Fund,idbiniftynext50index,index_fund,True
+113269,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+113270,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+113271,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+113294,NIPPON INDIA INDEX FUND - BSE SENSEX - HALF YEARLY -,Nippon India Index Fund - Bse Sensex - Half Yearly -,nipponindexbsesensexhalfyearly,index_fund,True
+113295,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+113296,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+113297,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+113298,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+113299,NIPPON INDIA INDEX FUND - NIFTY 50 - HALF YEARLY -,Nippon India Index Fund - Nifty 50 - Half Yearly -,nipponindexnifty50halfyearly,index_fund,True
+113300,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+113327,BARODA MID CAP FUND- A -,Baroda Mid Cap Fund- A -,barodamidcapa,mid_cap,True
+113328,BARODA MID CAP FUND- A -,Baroda Mid Cap Fund- A -,barodamidcapa,mid_cap,True
+113434,AXIS GOLD ETF,Axis Gold Etf,axisgoldetf,index_fund,True
+113460,BNP PARIBAS MULTI CAP FUND-,Bnp Paribas Multi Cap Fund-,bnpparibasmulticap,multi_cap,True
+113461,BNP PARIBAS MULTI CAP FUND INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Multi Cap Fund Income Distribution Cum Capital Withdrawal,bnpparibasmulticapincomedistributioncumcapitalwithdrawal,multi_cap,True
+113544,BNP PARIBAS LARGE CAP FUND-,Bnp Paribas Large Cap Fund-,bnpparibaslargecap,large_cap,True
+113545,BNP PARIBAS LARGE CAP FUND INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Large Cap Fund Income Distribution Cum Capital Withdrawal,bnpparibaslargecapincomedistributioncumcapitalwithdrawal,large_cap,True
+113566,BNP PARIBAS MID CAP FUND-,Bnp Paribas Mid Cap Fund-,bnpparibasmidcap,mid_cap,True
+113567,BNP PARIBAS MID CAP FUND INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Mid Cap Fund Income Distribution Cum Capital Withdrawal,bnpparibasmidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+114456,MOTILAL OSWAL NIFTY MIDCAP 100 ETF,Motilal Oswal Nifty Midcap 100 Etf,motilaloswalniftymidcap100etf,index_fund,True
+114457,KOTAK LARGE CAP FUND - OF INCOME DISTRIBUTION CUMCAPITAL WITHDRAWAL,Kotak Large Cap Fund - Of Income Distribution Cumcapital Withdrawal,kotaklargecapofincomedistributioncumcapitalwithdrawal,large_cap,True
+114458,KOTAK LARGE CAP FUND -,Kotak Large Cap Fund -,kotaklargecap,large_cap,True
+114564,AXIS MIDCAP FUND - -,Axis Midcap Fund - -,axismidcap,mid_cap,True
+114565,AXIS MIDCAP FUND - -,Axis Midcap Fund - -,axismidcap,mid_cap,True
+114984,MOTILAL OSWAL NASDAQ 100 ETF (MOFN100),Motilal Oswal Nasdaq 100 Etf (Mofn100),motilaloswalnasdaq100etfmofn100,index_fund,True
+115127,ADITYA BIRLA SUN LIFE GOLD ETF,Aditya Birla Sun Life Gold Etf,adityabirlasunlifegoldetf,index_fund,True
+115270,UNION FLEXI CAP FUND -,Union Flexi Cap Fund -,unionflexicap,multi_cap,True
+115284,INVESCO INDIA NIFTY 50 EXCHANGE TRADED FUND,Invesco India Nifty 50 Exchange Traded Fund,invesconifty50exchangetraded,index_fund,True
+115290,UNION FLEXI CAP FUND -,Union Flexi Cap Fund -,unionflexicap,multi_cap,True
+115512,ADITYA BIRLA SUN LIFE NIFTY 50 ETF,Aditya Birla Sun Life Nifty 50 Etf,adityabirlasunlifenifty50etf,index_fund,True
+115788,NAVI LARGE CAP EQUITY FUND - NORMAL,Navi Large Cap Equity Fund - Normal,navilargecapequitynormal,large_cap,True
+115790,NAVI LARGE CAP EQUITY FUND -,Navi Large Cap Equity Fund -,navilargecapequity,large_cap,True
+115934,HDFC GOLD ETF FUND OF FUND -,Hdfc Gold Etf Fund Of Fund -,hdfcgoldetfof,index_fund,True
+116075,INVESCO INDIA GOLD ETF FUND OF FUND - - ( / ),Invesco India Gold Etf Fund Of Fund - - ( / ),invescogoldetfof,index_fund,True
+116077,INVESCO INDIA GOLD ETF FUND OF FUND - -,Invesco India Gold Etf Fund Of Fund - -,invescogoldetfof,index_fund,True
+116547,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUE CHIP FUND) - -,Groww Largecap Fund (Formerly Known As Indiabulls Blue Chip Fund) - -,growwlargecapformerlyknownasindiabullsbluechip,large_cap,True
+116548,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+117619,ICICI PRUDENTIAL US BLUECHIP EQUITY FUND -,Icici Prudential Us Bluechip Equity Fund -,iciciprudentialusbluechipequity,large_cap,True
+117620,ICICI PRUDENTIAL US BLUECHIP EQUITY FUND -,Icici Prudential Us Bluechip Equity Fund -,iciciprudentialusbluechipequity,large_cap,True
+118043,L&T FLEXICAP FUND- -,L&T Flexicap Fund- -,ltflexicap,multi_cap,True
+118044,L&T FLEXICAP FUND- -,L&T Flexicap Fund- -,ltflexicap,multi_cap,True
+118049,L&T LARGE AND MIDCAP FUND- -,L&T Large And Midcap Fund- -,ltlargeandmidcap,mid_cap,True
+118050,L&T LARGE AND MIDCAP FUND- -,L&T Large And Midcap Fund- -,ltlargeandmidcap,mid_cap,True
+118069,L&T INDIA LARGE CAP FUND - -,L&T India Large Cap Fund - -,ltlargecap,large_cap,True
+118070,L&T INDIA LARGE CAP FUND - -,L&T India Large Cap Fund - -,ltlargecap,large_cap,True
+118269,CANARA ROBECO LARGE CAP FUND - -,Canara Robeco Large Cap Fund - -,canararobecolargecap,large_cap,True
+118270,CANARA ROBECO LARGE CAP FUND - - ( / ),Canara Robeco Large Cap Fund - - ( / ),canararobecolargecap,large_cap,True
+118275,CANARA ROBECO FLEXICAP FUND - -,Canara Robeco Flexicap Fund - -,canararobecoflexicap,multi_cap,True
+118276,CANARA ROBECO FLEXICAP FUND - - ( / ),Canara Robeco Flexicap Fund - - ( / ),canararobecoflexicap,multi_cap,True
+118277,CANARA ROBECO LARGE AND MID CAP FUND - - ( / ),Canara Robeco Large And Mid Cap Fund - - ( / ),canararobecolargeandmidcap,mid_cap,True
+118278,CANARA ROBECO LARGE AND MID CAP FUND - -,Canara Robeco Large And Mid Cap Fund - -,canararobecolargeandmidcap,mid_cap,True
+118347,IDBI NIFTY 50 INDEX FUND,Idbi Nifty 50 Index Fund,idbinifty50index,index_fund,True
+118348,IDBI NIFTY NEXT 50 INDEX FUND,Idbi Nifty Next 50 Index Fund,idbiniftynext50index,index_fund,True
+118419,BANDHAN LARGE & MID CAP FUND - -,Bandhan Large & Mid Cap Fund - -,bandhanlargemidcap,mid_cap,True
+118420,BANDHAN LARGE & MID CAP FUND - -,Bandhan Large & Mid Cap Fund - -,bandhanlargemidcap,mid_cap,True
+118423,BANDHAN FLEXI CAP FUND- -,Bandhan Flexi Cap Fund- -,bandhanflexicap,multi_cap,True
+118424,BANDHAN FLEXI CAP FUND- -,Bandhan Flexi Cap Fund- -,bandhanflexicap,multi_cap,True
+118455,IDBI NIFTY 50 INDEX FUND,Idbi Nifty 50 Index Fund,idbinifty50index,index_fund,True
+118456,IDBI NIFTY NEXT 50 INDEX FUND,Idbi Nifty Next 50 Index Fund,idbiniftynext50index,index_fund,True
+118462,FRANKLIN INDIA LARGE CAP FUND - -,Franklin India Large Cap Fund - -,franklinlargecap,large_cap,True
+118478,BANDHAN LARGE CAP FUND- -,Bandhan Large Cap Fund- -,bandhanlargecap,large_cap,True
+118479,BANDHAN LARGE CAP FUND- -,Bandhan Large Cap Fund- -,bandhanlargecap,large_cap,True
+118482,BANDHAN NIFTY 50 INDEX FUND- -,Bandhan Nifty 50 Index Fund- -,bandhannifty50index,index_fund,True
+118483,BANDHAN NIFTY 50 INDEX FUND- -,Bandhan Nifty 50 Index Fund- -,bandhannifty50index,index_fund,True
+118484,BANDHAN AGGRESSIVE HYBRID PASSIVE FOF - -,Bandhan Aggressive Hybrid Passive Fof - -,bandhanaggressivehybridpassivefof,index_fund,True
+118485,BANDHAN AGGRESSIVE HYBRID PASSIVE FOF - -,Bandhan Aggressive Hybrid Passive Fof - -,bandhanaggressivehybridpassivefof,index_fund,True
+118486,BANDHAN CONSERVATIVE HYBRID PASSIVE FOF - -,Bandhan Conservative Hybrid Passive Fof - -,bandhanconservativehybridpassivefof,index_fund,True
+118487,BANDHAN CONSERVATIVE HYBRID PASSIVE FOF - -,Bandhan Conservative Hybrid Passive Fof - -,bandhanconservativehybridpassivefof,index_fund,True
+118488,BANDHAN MULTI ASSET PASSIVE FOF - -,Bandhan Multi Asset Passive Fof - -,bandhanmultiassetpassivefof,index_fund,True
+118489,BANDHAN MULTI ASSET PASSIVE FOF - -,Bandhan Multi Asset Passive Fof - -,bandhanmultiassetpassivefof,index_fund,True
+118509,FRANKLIN INDIA LARGE & MID CAP FUND - -,Franklin India Large & Mid Cap Fund - -,franklinlargemidcap,mid_cap,True
+118510,FRANKLIN INDIA LARGE & MID CAP FUND - -,Franklin India Large & Mid Cap Fund - -,franklinlargemidcap,mid_cap,True
+118524,FRANKLIN INDIA SMALL CAP FUND - -,Franklin India Small Cap Fund - -,franklinsmallcap,small_cap,True
+118525,FRANKLIN INDIA SMALL CAP FUND - -,Franklin India Small Cap Fund - -,franklinsmallcap,small_cap,True
+118531,FRANKLIN INDIA LARGE CAP FUND- -,Franklin India Large Cap Fund- -,franklinlargecap,large_cap,True
+118532,FRANKLIN INDIA MID CAP FUND - -,Franklin India Mid Cap Fund - -,franklinmidcap,mid_cap,True
+118533,FRANKLIN INDIA MID CAP FUND - -,Franklin India Mid Cap Fund - -,franklinmidcap,mid_cap,True
+118534,FRANKLIN INDIA FLEXI CAP FUND - -,Franklin India Flexi Cap Fund - -,franklinflexicap,multi_cap,True
+118535,FRANKLIN INDIA FLEXI CAP FUND - -,Franklin India Flexi Cap Fund - -,franklinflexicap,multi_cap,True
+118580,FRANKLIN INDIA INDEX FUND- NSE NIFTY 50 INDEX FUND - -,Franklin India Index Fund- Nse Nifty 50 Index Fund - -,franklinindexnsenifty50index,index_fund,True
+118581,FRANKLIN INDIA INDEX FUND- NSE NIFTY 50 INDEX FUND- -,Franklin India Index Fund- Nse Nifty 50 Index Fund- -,franklinindexnsenifty50index,index_fund,True
+118616,EDELWEISS LARGE CAP FUND - -,Edelweiss Large Cap Fund - -,edelweisslargecap,large_cap,True
+118617,EDELWEISS LARGE CAP FUND - -,Edelweiss Large Cap Fund - -,edelweisslargecap,large_cap,True
+118632,NIPPON INDIA LARGE CAP FUND - -,Nippon India Large Cap Fund - -,nipponlargecap,large_cap,True
+118633,NIPPON INDIA LARGE CAP FUND - -,Nippon India Large Cap Fund - -,nipponlargecap,large_cap,True
+118634,NIPPON INDIA LARGE CAP FUND - -,Nippon India Large Cap Fund - -,nipponlargecap,large_cap,True
+118650,NIPPON INDIA MULTI CAP FUND - -,Nippon India Multi Cap Fund - -,nipponmulticap,multi_cap,True
+118651,NIPPON INDIA MULTI CAP FUND - -,Nippon India Multi Cap Fund - -,nipponmulticap,multi_cap,True
+118652,NIPPON INDIA MULTI CAP FUND - -,Nippon India Multi Cap Fund - -,nipponmulticap,multi_cap,True
+118665,NIPPON INDIA MID CAP FUND - -,Nippon India Mid Cap Fund - -,nipponmidcap,mid_cap,True
+118666,NIPPON INDIA MID CAP FUND - -,Nippon India Mid Cap Fund - -,nipponmidcap,mid_cap,True
+118668,NIPPON INDIA MID CAP FUND - -,Nippon India Mid Cap Fund - -,nipponmidcap,mid_cap,True
+118675,NIPPON INDIA VISION LARGE & MID CAP FUND - -,Nippon India Vision Large & Mid Cap Fund - -,nipponvisionlargemidcap,mid_cap,True
+118676,NIPPON INDIA VISION LARGE & MID CAP FUND - -,Nippon India Vision Large & Mid Cap Fund - -,nipponvisionlargemidcap,mid_cap,True
+118678,NIPPON INDIA VISION LARGE & MID CAP FUND - -,Nippon India Vision Large & Mid Cap Fund - -,nipponvisionlargemidcap,mid_cap,True
+118740,NIPPON INDIA INDEX FUND - NIFTY 50 - - -,Nippon India Index Fund - Nifty 50 - - -,nipponindexnifty50,index_fund,True
+118741,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+118742,NIPPON INDIA INDEX FUND - NIFTY 50 - -,Nippon India Index Fund - Nifty 50 - -,nipponindexnifty50,index_fund,True
+118743,NIPPON INDIA INDEX FUND - NIFTY 50 - - -,Nippon India Index Fund - Nifty 50 - - -,nipponindexnifty50,index_fund,True
+118745,NIPPON INDIA INDEX FUND - NIFTY 50 - - HALF YEARLY -,Nippon India Index Fund - Nifty 50 - - Half Yearly -,nipponindexnifty50halfyearly,index_fund,True
+118775,NIPPON INDIA SMALL CAP FUND - -,Nippon India Small Cap Fund - -,nipponsmallcap,small_cap,True
+118777,NIPPON INDIA SMALL CAP FUND - -,Nippon India Small Cap Fund - -,nipponsmallcap,small_cap,True
+118778,NIPPON INDIA SMALL CAP FUND - -,Nippon India Small Cap Fund - -,nipponsmallcap,small_cap,True
+118785,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+118786,NIPPON INDIA INDEX FUND - BSE SENSEX - - -,Nippon India Index Fund - Bse Sensex - - -,nipponindexbsesensex,index_fund,True
+118788,NIPPON INDIA INDEX FUND - BSE SENSEX - - HALF YEARLY -,Nippon India Index Fund - Bse Sensex - - Half Yearly -,nipponindexbsesensexhalfyearly,index_fund,True
+118790,NIPPON INDIA INDEX FUND - BSE SENSEX - - -,Nippon India Index Fund - Bse Sensex - - -,nipponindexbsesensex,index_fund,True
+118791,NIPPON INDIA INDEX FUND - BSE SENSEX - -,Nippon India Index Fund - Bse Sensex - -,nipponindexbsesensex,index_fund,True
+118825,MIRAE ASSET LARGE CAP FUND - -,Mirae Asset Large Cap Fund - -,miraeassetlargecap,large_cap,True
+118826,MIRAE ASSET LARGE CAP FUND,Mirae Asset Large Cap Fund,miraeassetlargecap,large_cap,True
+118834,MIRAE ASSET LARGE & MIDCAP FUND - -,Mirae Asset Large & Midcap Fund - -,miraeassetlargemidcap,mid_cap,True
+118835,MIRAE ASSET LARGE & MIDCAP FUND - -,Mirae Asset Large & Midcap Fund - -,miraeassetlargemidcap,mid_cap,True
+118870,TAURUS LARGE CAP FUND - -,Taurus Large Cap Fund - -,tauruslargecap,large_cap,True
+118871,TAURUS LARGE CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Large Cap Fund - - Of Income Distribution Cum Capital Withdrawal,tauruslargecapofincomedistributioncumcapitalwithdrawal,large_cap,True
+118872,TAURUS MID CAP FUND - -,Taurus Mid Cap Fund - -,taurusmidcap,mid_cap,True
+118873,TAURUS MID CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Mid Cap Fund - - Of Income Distribution Cum Capital Withdrawal,taurusmidcapofincomedistributioncumcapitalwithdrawal,mid_cap,True
+118881,TAURUS NIFTY 50 INDEX FUND - -,Taurus Nifty 50 Index Fund - -,taurusnifty50index,index_fund,True
+118882,TAURUS NIFTY 50 INDEX FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Nifty 50 Index Fund - - Of Income Distribution Cum Capital Withdrawal,taurusnifty50indexofincomedistributioncumcapitalwithdrawal,index_fund,True
+118883,TAURUS FLEXI CAP FUND - -,Taurus Flexi Cap Fund - -,taurusflexicap,multi_cap,True
+118884,TAURUS FLEXI CAP FUND - - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Taurus Flexi Cap Fund - - Of Income Distribution Cum Capital Withdrawal,taurusflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+118954,HDFC FLEXI CAP FUND - -,Hdfc Flexi Cap Fund - -,hdfcflexicap,multi_cap,True
+118955,HDFC FLEXI CAP FUND - -,Hdfc Flexi Cap Fund - -,hdfcflexicap,multi_cap,True
+118988,HDFC MID CAP FUND - -,Hdfc Mid Cap Fund - -,hdfcmidcap,mid_cap,True
+118989,HDFC MID CAP FUND - -,Hdfc Mid Cap Fund - -,hdfcmidcap,mid_cap,True
+119017,HDFC LARGE CAP FUND - -,Hdfc Large Cap Fund - -,hdfclargecap,large_cap,True
+119018,HDFC LARGE CAP FUND - -,Hdfc Large Cap Fund - -,hdfclargecap,large_cap,True
+119063,HDFC NIFTY 50 INDEX FUND -,Hdfc Nifty 50 Index Fund -,hdfcnifty50index,index_fund,True
+119065,HDFC BSE SENSEX INDEX FUND -,Hdfc Bse Sensex Index Fund -,hdfcbsesensexindex,index_fund,True
+119070,DSP MIDCAP FUND - -,Dsp Midcap Fund - -,dspmidcap,mid_cap,True
+119071,DSP MIDCAP FUND - -,Dsp Midcap Fund - -,dspmidcap,mid_cap,True
+119076,DSP FLEXI CAP FUND - -,Dsp Flexi Cap Fund - -,dspflexicap,multi_cap,True
+119077,DSP FLEXI CAP FUND - -,Dsp Flexi Cap Fund - -,dspflexicap,multi_cap,True
+119132,HDFC GOLD ETF FUND OF FUND -,Hdfc Gold Etf Fund Of Fund -,hdfcgoldetfof,index_fund,True
+119133,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUE CHIP FUND) - -,Groww Largecap Fund (Formerly Known As Indiabulls Blue Chip Fund) - -,growwlargecapformerlyknownasindiabullsbluechip,large_cap,True
+119134,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+119148,NAVI LARGE CAP EQUITY FUND- -,Navi Large Cap Equity Fund- -,navilargecapequity,large_cap,True
+119149,NAVI LARGE CAP EQUITY FUND - NORMAL,Navi Large Cap Equity Fund - Normal,navilargecapequitynormal,large_cap,True
+119159,TATA LARGE CAP FUND- - OF,Tata Large Cap Fund- - Of,tatalargecapof,large_cap,True
+119160,TATA LARGE CAP FUND -,Tata Large Cap Fund -,tatalargecap,large_cap,True
+119177,TATA MID CAP FUND - -,Tata Mid Cap Fund - -,tatamidcap,mid_cap,True
+119178,TATA MID CAP FUND - -,Tata Mid Cap Fund - -,tatamidcap,mid_cap,True
+119201,TATA LARGE & MID CAP FUND - OF,Tata Large & Mid Cap Fund - Of,tatalargemidcapof,mid_cap,True
+119202,TATA LARGE & MID CAP FUND - -,Tata Large & Mid Cap Fund - -,tatalargemidcap,mid_cap,True
+119212,DSP SMALL CAP FUND - -,Dsp Small Cap Fund - -,dspsmallcap,small_cap,True
+119213,DSP SMALL CAP FUND - -,Dsp Small Cap Fund - -,dspsmallcap,small_cap,True
+119218,DSP LARGE & MID CAP FUND - -,Dsp Large & Mid Cap Fund - -,dsplargemidcap,mid_cap,True
+119219,DSP LARGE & MID CAP FUND - -,Dsp Large & Mid Cap Fund - -,dsplargemidcap,mid_cap,True
+119249,DSP LARGE CAP FUND - -,Dsp Large Cap Fund - -,dsplargecap,large_cap,True
+119250,DSP LARGE CAP FUND - -,Dsp Large Cap Fund - -,dsplargecap,large_cap,True
+119287,TATA S&P BSE SENSEX INDEX FUND -,Tata S&P Bse Sensex Index Fund -,tataspbsesensexindex,index_fund,True
+119288,TATA NIFTY 50 INDEX FUND -,Tata Nifty 50 Index Fund -,tatanifty50index,index_fund,True
+119290,L&T FLEXICAP FUND- -,L&T Flexicap Fund- -,ltflexicap,multi_cap,True
+119291,L&T FLEXICAP FUND- -,L&T Flexicap Fund- -,ltflexicap,multi_cap,True
+119292,UNION FLEXI CAP FUND - -,Union Flexi Cap Fund - -,unionflexicap,multi_cap,True
+119293,UNION FLEXI CAP FUND - -,Union Flexi Cap Fund - -,unionflexicap,multi_cap,True
+119300,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+119308,L&T INDIA LARGE CAP FUND - -,L&T India Large Cap Fund - -,ltlargecap,large_cap,True
+119313,BARODA MID CAP FUND- B ( )-,Baroda Mid Cap Fund- B ( )-,barodamidcapb,mid_cap,True
+119314,L&T INDIA LARGE CAP FUND - -,L&T India Large Cap Fund - -,ltlargecap,large_cap,True
+119346,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+119349,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+119350,BANK OF INDIA LARGE & MID CAP FUND -,Bank Of India Large & Mid Cap Fund -,bankoflargemidcap,mid_cap,True
+119353,BARODA BNP PARIBAS MULTI CAP FUND - -,Baroda Bnp Paribas Multi Cap Fund - -,barodabnpparibasmulticap,multi_cap,True
+119354,BARODA BNP PARIBAS MULTI CAP FUND - -,Baroda Bnp Paribas Multi Cap Fund - -,barodabnpparibasmulticap,multi_cap,True
+119366,BARODA LARGE CAP FUND - B ( ) -,Baroda Large Cap Fund - B ( ) -,barodalargecapb,large_cap,True
+119367,BARODA LARGE CAP FUND - B ( ) -,Baroda Large Cap Fund - B ( ) -,barodalargecapb,large_cap,True
+119392,BARODA MID CAP FUND- B ( ) -,Baroda Mid Cap Fund- B ( ) -,barodamidcapb,mid_cap,True
+119397,L&T LARGE AND MIDCAP FUND- -,L&T Large And Midcap Fund- -,ltlargeandmidcap,mid_cap,True
+119398,L&T LARGE AND MIDCAP FUND- -,L&T Large And Midcap Fund- -,ltlargeandmidcap,mid_cap,True
+119433,ADITYA BIRLA SUN LIFE LARGE & MID CAP FUND - -,Aditya Birla Sun Life Large & Mid Cap Fund - -,adityabirlasunlifelargemidcap,mid_cap,True
+119436,ADITYA BIRLA SUN LIFE LARGE & MID CAP FUND - -,Aditya Birla Sun Life Large & Mid Cap Fund - -,adityabirlasunlifelargemidcap,mid_cap,True
+119527,ADITYA BIRLA SUN LIFE LARGE CAP FUND- -,Aditya Birla Sun Life Large Cap Fund- -,adityabirlasunlifelargecap,large_cap,True
+119528,ADITYA BIRLA SUN LIFE LARGE CAP FUND - -,Aditya Birla Sun Life Large Cap Fund - -,adityabirlasunlifelargecap,large_cap,True
+119556,ADITYA BIRLA SUN LIFE SMALL CAP FUND - -,Aditya Birla Sun Life Small Cap Fund - -,adityabirlasunlifesmallcap,small_cap,True
+119557,ADITYA BIRLA SUN LIFE SMALL CAP FUND - -,Aditya Birla Sun Life Small Cap Fund - -,adityabirlasunlifesmallcap,small_cap,True
+119565,SUNDARAM LARGE AND MIDCAP - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Large And Midcap - Income Distribution Cum Capital Withdrawal ( ),sundaramlargeandmidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+119566,SUNDARAM LARGE AND MIDCAP FUND -,Sundaram Large And Midcap Fund -,sundaramlargeandmidcap,mid_cap,True
+119581,SUNDARAM MID CAP FUND -,Sundaram Mid Cap Fund -,sundarammidcap,mid_cap,True
+119582,SUNDARAM MID CAP FUND - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Mid Cap Fund - Income Distribution Cum Capital Withdrawal ( ),sundarammidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+119585,SBI LARGE CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Large Cap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbilargecapincomedistributioncumcapitalwithdrawal,large_cap,True
+119588,SUNDARAM SMALL CAP FUND - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sundaram Small Cap Fund - Income Distribution Cum Capital Withdrawal ( ),sundaramsmallcapincomedistributioncumcapitalwithdrawal,small_cap,True
+119589,SUNDARAM SMALL CAP FUND -,Sundaram Small Cap Fund -,sundaramsmallcap,small_cap,True
+119598,SBI LARGE CAP FUND- -,Sbi Large Cap Fund- -,sbilargecap,large_cap,True
+119619,ADITYA BIRLA SUN LIFE MIDCAP FUND - -,Aditya Birla Sun Life Midcap Fund - -,adityabirlasunlifemidcap,mid_cap,True
+119620,ADITYA BIRLA SUN LIFE MIDCAP FUND - -,Aditya Birla Sun Life Midcap Fund - -,adityabirlasunlifemidcap,mid_cap,True
+119648,ADITYA BIRLA SUN LIFE NIFTY 50 INDEX FUND - -,Aditya Birla Sun Life Nifty 50 Index Fund - -,adityabirlasunlifenifty50index,index_fund,True
+119649,ADITYA BIRLA SUN LIFE NIFTY 50 INDEX FUND - -,Aditya Birla Sun Life Nifty 50 Index Fund - -,adityabirlasunlifenifty50index,index_fund,True
+119715,SBI MIDCAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Midcap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbimidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+119716,SBI MIDCAP FUND - -,Sbi Midcap Fund - -,sbimidcap,mid_cap,True
+119717,SBI FLEXICAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Flexicap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbiflexicapincomedistributioncumcapitalwithdrawal,multi_cap,True
+119718,SBI FLEXICAP FUND - -,Sbi Flexicap Fund - -,sbiflexicap,multi_cap,True
+119720,SBI LARGE & MIDCAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Large & Midcap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbilargemidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+119721,SBI LARGE & MIDCAP FUND - -,Sbi Large & Midcap Fund - -,sbilargemidcap,mid_cap,True
+119774,KOTAK MIDCAP FUND - - - & RE INVESTMENT OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Kotak Midcap Fund - - - & Re Investment Of Income Distribution Cum Capital Withdrawal,kotakmidcapreinvestmentofincomedistributioncumcapitalwithdrawal,mid_cap,True
+119775,KOTAK MIDCAP FUND - -,Kotak Midcap Fund - -,kotakmidcap,mid_cap,True
+119806,L&T MID CAP FUND- -,L&T Mid Cap Fund- -,ltmidcap,mid_cap,True
+119807,L&T MID CAP FUND- -,L&T Mid Cap Fund- -,ltmidcap,mid_cap,True
+119826,SBI NIFTY INDEX FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Nifty Index Fund - - Income Distribution Cum Capital Withdrawal ( ),sbiniftyindexincomedistributioncumcapitalwithdrawal,index_fund,True
+119827,SBI NIFTY INDEX FUND - -,Sbi Nifty Index Fund - -,sbiniftyindex,index_fund,True
+119893,BNP PARIBAS LARGE CAP FUND - -,Bnp Paribas Large Cap Fund - -,bnpparibaslargecap,large_cap,True
+119894,BNP PARIBAS LARGE CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Large Cap Fund - - Income Distribution Cum Capital Withdrawal,bnpparibaslargecapincomedistributioncumcapitalwithdrawal,large_cap,True
+119987,BNP PARIBAS MULTI CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Multi Cap Fund - - Income Distribution Cum Capital Withdrawal,bnpparibasmulticapincomedistributioncumcapitalwithdrawal,multi_cap,True
+119988,BNP PARIBAS MULTI CAP FUND - -,Bnp Paribas Multi Cap Fund - -,bnpparibasmulticap,multi_cap,True
+120001,BNP PARIBAS MID CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Bnp Paribas Mid Cap Fund - - Income Distribution Cum Capital Withdrawal,bnpparibasmidcapincomedistributioncumcapitalwithdrawal,mid_cap,True
+120002,BNP PARIBAS MID CAP FUND - -,Bnp Paribas Mid Cap Fund - -,bnpparibasmidcap,mid_cap,True
+120029,HSBC LARGE CAP FUND -,Hsbc Large Cap Fund -,hsbclargecap,large_cap,True
+120030,HSBC LARGE CAP FUND -,Hsbc Large Cap Fund -,hsbclargecap,large_cap,True
+120045,HSBC FLEXI CAP FUND -,Hsbc Flexi Cap Fund -,hsbcflexicap,multi_cap,True
+120046,HSBC FLEXI CAP FUND -,Hsbc Flexi Cap Fund -,hsbcflexicap,multi_cap,True
+120152,KOTAK LARGE CAP FUND - -,Kotak Large Cap Fund - -,kotaklargecap,large_cap,True
+120153,KOTAK LARGE CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL -,Kotak Large Cap Fund - Of Income Distribution Cum Capital Withdrawal -,kotaklargecapofincomedistributioncumcapitalwithdrawal,large_cap,True
+120157,KOTAK LARGE & MIDCAP FUND - -,Kotak Large & Midcap Fund - -,kotaklargemidcap,mid_cap,True
+120158,KOTAK LARGE & MIDCAP FUND - -,Kotak Large & Midcap Fund - -,kotaklargemidcap,mid_cap,True
+120163,KOTAK SMALL CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL -,Kotak Small Cap Fund - Of Income Distribution Cum Capital Withdrawal -,kotaksmallcapofincomedistributioncumcapitalwithdrawal,small_cap,True
+120164,KOTAK SMALL CAP FUND - -,Kotak Small Cap Fund - -,kotaksmallcap,small_cap,True
+120165,KOTAK FLEXICAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL -,Kotak Flexicap Fund - Of Income Distribution Cum Capital Withdrawal -,kotakflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+120166,KOTAK FLEXICAP FUND - -,Kotak Flexicap Fund - -,kotakflexicap,multi_cap,True
+120185,ICICI PRUDENTIAL US BLUECHIP EQUITY FUND - -,Icici Prudential Us Bluechip Equity Fund - -,iciciprudentialusbluechipequity,large_cap,True
+120186,ICICI PRUDENTIAL US BLUECHIP EQUITY FUND - -,Icici Prudential Us Bluechip Equity Fund - -,iciciprudentialusbluechipequity,large_cap,True
+120242,ICICI PRUDENTIAL MULTI SECTOR PASSIVE FOF - -,Icici Prudential Multi Sector Passive Fof - -,iciciprudentialmultisectorpassivefof,index_fund,True
+120243,ICICI PRUDENTIAL MULTI SECTOR PASSIVE FOF - -,Icici Prudential Multi Sector Passive Fof - -,iciciprudentialmultisectorpassivefof,index_fund,True
+120263,LIC MF FLEXI CAP FUND- -,Lic Mf Flexi Cap Fund- -,licmfflexicap,multi_cap,True
+120264,LIC MF FLEXI CAP FUND- -,Lic Mf Flexi Cap Fund- -,licmfflexicap,multi_cap,True
+120267,LIC MF LARGE CAP FUND- -,Lic Mf Large Cap Fund- -,licmflargecap,large_cap,True
+120268,LIC MF LARGE CAP FUND- -,Lic Mf Large Cap Fund- -,licmflargecap,large_cap,True
+120307,LIC MF NIFTY 50 INDEX FUND- -,Lic Mf Nifty 50 Index Fund- -,licmfnifty50index,index_fund,True
+120308,LIC MF BSE SENSEX INDEX FUND- -,Lic Mf Bse Sensex Index Fund- -,licmfbsesensexindex,index_fund,True
+120309,LIC MF NIFTY 50 INDEX FUND- -,Lic Mf Nifty 50 Index Fund- -,licmfnifty50index,index_fund,True
+120312,LIC MF BSE SENSEX INDEX FUND- -,Lic Mf Bse Sensex Index Fund- -,licmfbsesensexindex,index_fund,True
+120356,INVESCO INDIA LARGE & MID CAP FUND - - ( / ),Invesco India Large & Mid Cap Fund - - ( / ),invescolargemidcap,mid_cap,True
+120357,INVESCO INDIA LARGE & MID CAP FUND - -,Invesco India Large & Mid Cap Fund - -,invescolargemidcap,mid_cap,True
+120380,ICICI PRUDENTIAL MIDCAP FUND - -,Icici Prudential Midcap Fund - -,iciciprudentialmidcap,mid_cap,True
+120381,ICICI PRUDENTIAL MIDCAP FUND - -,Icici Prudential Midcap Fund - -,iciciprudentialmidcap,mid_cap,True
+120392,INVESCO INDIA LARGECAP FUND - -,Invesco India Largecap Fund - -,invescolargecap,large_cap,True
+120393,INVESCO INDIA LARGECAP FUND - - ( / ),Invesco India Largecap Fund - - ( / ),invescolargecap,large_cap,True
+120402,INVESCO INDIA MIDCAP FUND - - ( / ),Invesco India Midcap Fund - - ( / ),invescomidcap,mid_cap,True
+120403,INVESCO INDIA MIDCAP FUND - -,Invesco India Midcap Fund - -,invescomidcap,mid_cap,True
+120412,INVESCO INDIA MULTICAP FUND - - ( / ),Invesco India Multicap Fund - - ( / ),invescomulticap,multi_cap,True
+120413,INVESCO INDIA MULTICAP FUND - -,Invesco India Multicap Fund - -,invescomulticap,multi_cap,True
+120465,AXIS LARGE CAP FUND - -,Axis Large Cap Fund - -,axislargecap,large_cap,True
+120466,AXIS LARGE CAP FUND - -,Axis Large Cap Fund - -,axislargecap,large_cap,True
+120489,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+120490,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+120491,JM FLEXICAP FUND ( ) -,Jm Flexicap Fund ( ) -,jmflexicap,multi_cap,True
+120492,JM FLEXICAP FUND ( ) -,Jm Flexicap Fund ( ) -,jmflexicap,multi_cap,True
+120504,AXIS MIDCAP FUND - -,Axis Midcap Fund - -,axismidcap,mid_cap,True
+120505,AXIS MIDCAP FUND - -,Axis Midcap Fund - -,axismidcap,mid_cap,True
+120530,INVESCO INDIA GOLD ETF FUND OF FUND - - ( / ),Invesco India Gold Etf Fund Of Fund - - ( / ),invescogoldetfof,index_fund,True
+120531,INVESCO INDIA GOLD ETF FUND OF FUND - -,Invesco India Gold Etf Fund Of Fund - -,invescogoldetfof,index_fund,True
+120564,ADITYA BIRLA SUN LIFE FLEXI CAP FUND - -,Aditya Birla Sun Life Flexi Cap Fund - -,adityabirlasunlifeflexicap,multi_cap,True
+120565,ADITYA BIRLA SUN LIFE FLEXI CAP FUND - -,Aditya Birla Sun Life Flexi Cap Fund - -,adityabirlasunlifeflexicap,multi_cap,True
+120585,ICICI PRUDENTIAL LARGE CAP FUND (ERSTWHILE BLUECHIP FUND) - -,Icici Prudential Large Cap Fund (Erstwhile Bluechip Fund) - -,iciciprudentiallargecaperstwhilebluechip,large_cap,True
+120586,ICICI PRUDENTIAL LARGE CAP FUND (ERSTWHILE BLUECHIP FUND) - -,Icici Prudential Large Cap Fund (Erstwhile Bluechip Fund) - -,iciciprudentiallargecaperstwhilebluechip,large_cap,True
+120591,ICICI PRUDENTIAL SMALLCAP FUND - -,Icici Prudential Smallcap Fund - -,iciciprudentialsmallcap,small_cap,True
+120596,ICICI PRUDENTIAL LARGE & MID CAP FUND - -,Icici Prudential Large & Mid Cap Fund - -,iciciprudentiallargemidcap,mid_cap,True
+120597,ICICI PRUDENTIAL LARGE & MID CAP FUND - -,Icici Prudential Large & Mid Cap Fund - -,iciciprudentiallargemidcap,mid_cap,True
+120598,ICICI PRUDENTIAL MULTICAP FUND - -,Icici Prudential Multicap Fund - -,iciciprudentialmulticap,multi_cap,True
+120599,ICICI PRUDENTIAL MULTICAP FUND - -,Icici Prudential Multicap Fund - -,iciciprudentialmulticap,multi_cap,True
+120620,ICICI PRUDENTIAL NIFTY 50 INDEX FUND - CUMULATIVE,Icici Prudential Nifty 50 Index Fund - Cumulative,iciciprudentialnifty50indexcumulative,index_fund,True
+120656,UTI LARGE CAP FUND - -,Uti Large Cap Fund - -,utilargecap,large_cap,True
+120657,UTI LARGE CAP FUND - -,Uti Large Cap Fund - -,utilargecap,large_cap,True
+120662,UTI - FLEXI CAP FUND- -,Uti - Flexi Cap Fund- -,utiflexicap,multi_cap,True
+120663,UTI FLEXI CAP FUND - -,Uti Flexi Cap Fund - -,utiflexicap,multi_cap,True
+120664,UTI LARGE & MID CAP FUND - -,Uti Large & Mid Cap Fund - -,utilargemidcap,mid_cap,True
+120665,UTI LARGE & MID CAP FUND - -,Uti Large & Mid Cap Fund - -,utilargemidcap,mid_cap,True
+120683,ICICI PRUDENTIAL NIFTY NEXT 50 INDEX FUND - -,Icici Prudential Nifty Next 50 Index Fund - -,iciciprudentialniftynext50index,index_fund,True
+120684,ICICI PRUDENTIAL NIFTY NEXT 50 INDEX FUND - -,Icici Prudential Nifty Next 50 Index Fund - -,iciciprudentialniftynext50index,index_fund,True
+120716,UTI NIFTY 50 INDEX FUND - -,Uti Nifty 50 Index Fund - -,utinifty50index,index_fund,True
+120717,UTI NIFTY 50 INDEX FUND - -,Uti Nifty 50 Index Fund - -,utinifty50index,index_fund,True
+120726,UTI MID CAP FUND- -,Uti Mid Cap Fund- -,utimidcap,mid_cap,True
+120727,UTI MID CAP FUND - -,Uti Mid Cap Fund - -,utimidcap,mid_cap,True
+120822,QUANT MULTI CAP FUND- -,Quant Multi Cap Fund- -,quantmulticap,multi_cap,True
+120823,QUANT MULTI CAP FUND- -,Quant Multi Cap Fund- -,quantmulticap,multi_cap,True
+120824,QUANT LARGE & MID CAP FUND - -,Quant Large & Mid Cap Fund - -,quantlargemidcap,mid_cap,True
+120825,QUANT LARGE & MID CAP FUND - -,Quant Large & Mid Cap Fund - -,quantlargemidcap,mid_cap,True
+120826,QUANT LARGE & MID CAP FUND - -,Quant Large & Mid Cap Fund - -,quantlargemidcap,mid_cap,True
+120827,QUANT SMALL CAP FUND - -,Quant Small Cap Fund - -,quantsmallcap,small_cap,True
+120828,QUANT SMALL CAP FUND - -,Quant Small Cap Fund - -,quantsmallcap,small_cap,True
+120840,QUANT MID CAP FUND - -,Quant Mid Cap Fund - -,quantmidcap,mid_cap,True
+120841,QUANT MID CAP FUND - -,Quant Mid Cap Fund - -,quantmidcap,mid_cap,True
+120842,QUANT FLEXI CAP FUND - -,Quant Flexi Cap Fund - -,quantflexicap,multi_cap,True
+120843,QUANT FLEXI CAP FUND - -,Quant Flexi Cap Fund - -,quantflexicap,multi_cap,True
+120870,ICICI PRUDENTIAL SMALLCAP FUND - -,Icici Prudential Smallcap Fund - -,iciciprudentialsmallcap,small_cap,True
+121109,SBI BSE SENSEX ETF,Sbi Bse Sensex Etf,sbibsesensexetf,index_fund,True
+121146,NIPPON INDIA ETF NIFTY 100,Nippon India Etf Nifty 100,nipponetfnifty100,index_fund,True
+121366,ICICI PRUDENTIAL NIFTY 50 ETF,Icici Prudential Nifty 50 Etf,iciciprudentialnifty50etf,index_fund,True
+122639,PARAG PARIKH FLEXI CAP FUND - -,Parag Parikh Flexi Cap Fund - -,paragparikhflexicap,multi_cap,True
+122640,PARAG PARIKH FLEXI CAP FUND - -,Parag Parikh Flexi Cap Fund - -,paragparikhflexicap,multi_cap,True
+123004,ICICI PRUDENTIAL NIFTY 100 ETF,Icici Prudential Nifty 100 Etf,iciciprudentialnifty100etf,index_fund,True
+125301,PGIM INDIA MIDCAP FUND - - -,Pgim India Midcap Fund - - -,pgimmidcap,mid_cap,True
+125305,PGIM INDIA MIDCAP FUND - -,Pgim India Midcap Fund - -,pgimmidcap,mid_cap,True
+125306,PGIM INDIA MIDCAP FUND - - -,Pgim India Midcap Fund - - -,pgimmidcap,mid_cap,True
+125307,PGIM INDIA MIDCAP FUND - -,Pgim India Midcap Fund - -,pgimmidcap,mid_cap,True
+125350,AXIS SMALL CAP FUND - -,Axis Small Cap Fund - -,axissmallcap,small_cap,True
+125351,AXIS SMALL CAP FUND - -,Axis Small Cap Fund - -,axissmallcap,small_cap,True
+125352,AXIS SMALL CAP FUND - -,Axis Small Cap Fund - -,axissmallcap,small_cap,True
+125354,AXIS SMALL CAP FUND - -,Axis Small Cap Fund - -,axissmallcap,small_cap,True
+125494,SBI SMALL CAP FUND - -,Sbi Small Cap Fund - -,sbismallcap,small_cap,True
+125495,SBI SMALL CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Small Cap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbismallcapincomedistributioncumcapitalwithdrawal,small_cap,True
+125496,SBI SMALL CAP FUND - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( ),Sbi Small Cap Fund - - Income Distribution Cum Capital Withdrawal ( ),sbismallcapincomedistributioncumcapitalwithdrawal,small_cap,True
+125497,SBI SMALL CAP FUND - -,Sbi Small Cap Fund - -,sbismallcap,small_cap,True
+127039,MOTILAL OSWAL MIDCAP FUND- -,Motilal Oswal Midcap Fund- -,motilaloswalmidcap,mid_cap,True
+127040,MOTILAL OSWAL MIDCAP FUND- - /,Motilal Oswal Midcap Fund- - /,motilaloswalmidcap,mid_cap,True
+127042,MOTILAL OSWAL MIDCAP FUND- -,Motilal Oswal Midcap Fund- -,motilaloswalmidcap,mid_cap,True
+127044,MOTILAL OSWAL MIDCAP FUND- - /,Motilal Oswal Midcap Fund- - /,motilaloswalmidcap,mid_cap,True
+128233,IDBI FLEXI CAP FUND -,Idbi Flexi Cap Fund -,idbiflexicap,multi_cap,True
+128234,IDBI FLEXI CAP FUND -,Idbi Flexi Cap Fund -,idbiflexicap,multi_cap,True
+128235,IDBI FLEXI CAP FUND,Idbi Flexi Cap Fund,idbiflexicap,multi_cap,True
+128236,IDBI FLEXI CAP FUND,Idbi Flexi Cap Fund,idbiflexicap,multi_cap,True
+128331,NIPPON INDIA ETF NIFTY INDIA CONSUMPTION,Nippon India Etf Nifty India Consumption,nipponetfniftyconsumption,index_fund,True
+128639,NIPPON INDIA ETF NIFTY OPPORTUNITIES 50,Nippon India Etf Nifty Opportunities 50,nipponetfniftyopportunities50,index_fund,True
+129046,MOTILAL OSWAL FLEXI CAP FUND -,Motilal Oswal Flexi Cap Fund -,motilaloswalflexicap,multi_cap,True
+129047,MOTILAL OSWAL FLEXI CAP FUND - /,Motilal Oswal Flexi Cap Fund - /,motilaloswalflexicap,multi_cap,True
+129048,MOTILAL OSWAL FLEXI CAP FUND -,Motilal Oswal Flexi Cap Fund -,motilaloswalflexicap,multi_cap,True
+129049,MOTILAL OSWAL FLEXI CAP FUND - /,Motilal Oswal Flexi Cap Fund - /,motilaloswalflexicap,multi_cap,True
+129646,UNION SMALL CAP FUND - -,Union Small Cap Fund - -,unionsmallcap,small_cap,True
+129647,UNION SMALL CAP FUND - -,Union Small Cap Fund - -,unionsmallcap,small_cap,True
+129648,UNION SMALL CAP FUND - -,Union Small Cap Fund - -,unionsmallcap,small_cap,True
+129649,UNION SMALL CAP FUND - -,Union Small Cap Fund - -,unionsmallcap,small_cap,True
+130496,HDFC LARGE AND MID CAP FUND -,Hdfc Large And Mid Cap Fund -,hdfclargeandmidcap,mid_cap,True
+130497,HDFC LARGE AND MID CAP FUND -,Hdfc Large And Mid Cap Fund -,hdfclargeandmidcap,mid_cap,True
+130498,HDFC LARGE AND MID CAP FUND - -,Hdfc Large And Mid Cap Fund - -,hdfclargeandmidcap,mid_cap,True
+130499,HDFC LARGE AND MID CAP FUND - -,Hdfc Large And Mid Cap Fund - -,hdfclargeandmidcap,mid_cap,True
+130501,HDFC SMALL CAP FUND -,Hdfc Small Cap Fund -,hdfcsmallcap,small_cap,True
+130502,HDFC SMALL CAP FUND -,Hdfc Small Cap Fund -,hdfcsmallcap,small_cap,True
+130503,HDFC SMALL CAP FUND - -,Hdfc Small Cap Fund - -,hdfcsmallcap,small_cap,True
+130504,HDFC SMALL CAP FUND - -,Hdfc Small Cap Fund - -,hdfcsmallcap,small_cap,True
+131331,NIPPON INDIA ETF BSE SENSEX,Nippon India Etf Bse Sensex,nipponetfbsesensex,index_fund,True
+133122,KOTAK NIFTY BANK ETF,Kotak Nifty Bank Etf,kotakniftybanketf,index_fund,True
+133307,LIC MF NIFTY 8 13 YR G SEC ETF,Lic Mf Nifty 8 13 Yr G Sec Etf,licmfnifty813yrgsecetf,index_fund,True
+133709,LIC MF LARGE & MID CAP FUND- -,Lic Mf Large & Mid Cap Fund- -,licmflargemidcap,mid_cap,True
+133710,LIC MF LARGE & MID CAP FUND- -,Lic Mf Large & Mid Cap Fund- -,licmflargemidcap,mid_cap,True
+133711,LIC MF LARGE & MID CAP FUND- -,Lic Mf Large & Mid Cap Fund- -,licmflargemidcap,mid_cap,True
+133712,LIC MF LARGE & MID CAP FUND- -,Lic Mf Large & Mid Cap Fund- -,licmflargemidcap,mid_cap,True
+133836,PGIM INDIA FLEXI CAP FUND - -,Pgim India Flexi Cap Fund - -,pgimflexicap,multi_cap,True
+133837,PGIM INDIA FLEXI CAP FUND - -,Pgim India Flexi Cap Fund - -,pgimflexicap,multi_cap,True
+133838,PGIM INDIA FLEXI CAP FUND - -,Pgim India Flexi Cap Fund - -,pgimflexicap,multi_cap,True
+133839,PGIM INDIA FLEXI CAP FUND - -,Pgim India Flexi Cap Fund - -,pgimflexicap,multi_cap,True
+134008,SBI NIFTY BANK ETF,Sbi Nifty Bank Etf,sbiniftybanketf,index_fund,True
+134013,SBI NIFTY NEXT 50 ETF,Sbi Nifty Next 50 Etf,sbiniftynext50etf,index_fund,True
+134014,SBI BSE 100 ETF,Sbi Bse 100 Etf,sbibse100etf,index_fund,True
+134782,NIPPON INDIA ETF NIFTY 50 VALUE 20,Nippon India Etf Nifty 50 Value 20,nipponetfnifty50value20,index_fund,True
+134954,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+134955,JM LARGE CAP FUND ( ) - HALF YEARLY,Jm Large Cap Fund ( ) - Half Yearly,jmlargecaphalfyearly,large_cap,True
+134956,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+134957,JM LARGE CAP FUND ( ) - HALF YEARLY,Jm Large Cap Fund ( ) - Half Yearly,jmlargecaphalfyearly,large_cap,True
+134958,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+134959,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+134960,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+134961,JM LARGE CAP FUND ( ) -,Jm Large Cap Fund ( ) -,jmlargecap,large_cap,True
+135106,SBI NIFTY 50 ETF,Sbi Nifty 50 Etf,sbinifty50etf,index_fund,True
+135320,UTI NIFTY 50 ETF,Uti Nifty 50 Etf,utinifty50etf,index_fund,True
+135321,UTI BSE SENSEX ETF,Uti Bse Sensex Etf,utibsesensexetf,index_fund,True
+135390,ICICI PRUDENTIAL NIFTY 50 INDEX FUND -,Icici Prudential Nifty 50 Index Fund -,iciciprudentialnifty50index,index_fund,True
+135391,ICICI PRUDENTIAL NIFTY 50 INDEX FUND -,Icici Prudential Nifty 50 Index Fund -,iciciprudentialnifty50index,index_fund,True
+135607,LIC MF NIFTY 50 ETF,Lic Mf Nifty 50 Etf,licmfnifty50etf,index_fund,True
+135656,NAVI LARGE CAP EQUITY FUND -,Navi Large Cap Equity Fund -,navilargecapequity,large_cap,True
+135657,NAVI LARGE CAP EQUITY FUND - HALF YEARLY,Navi Large Cap Equity Fund - Half Yearly,navilargecapequityhalfyearly,large_cap,True
+135658,NAVI LARGE CAP EQUITY FUND - HALF YEARLY,Navi Large Cap Equity Fund - Half Yearly,navilargecapequityhalfyearly,large_cap,True
+135659,NAVI LARGE CAP EQUITY FUND -,Navi Large Cap Equity Fund -,navilargecapequity,large_cap,True
+135660,NAVI LARGE CAP EQUITY FUND -,Navi Large Cap Equity Fund -,navilargecapequity,large_cap,True
+135661,NAVI LARGE CAP EQUITY FUND -,Navi Large Cap Equity Fund -,navilargecapequity,large_cap,True
+135672,LIC MF BSE SENSEX ETF,Lic Mf Bse Sensex Etf,licmfbsesensexetf,index_fund,True
+135677,NAVI LARGE & MIDCAP FUND- -,Navi Large & Midcap Fund- -,navilargemidcap,mid_cap,True
+135678,NAVI LARGE & MIDCAP FUND- -,Navi Large & Midcap Fund- -,navilargemidcap,mid_cap,True
+135679,NAVI LARGE & MIDCAP FUND - NORMAL,Navi Large & Midcap Fund - Normal,navilargemidcapnormal,mid_cap,True
+135680,NAVI LARGE & MIDCAP FUND - NORMAL,Navi Large & Midcap Fund - Normal,navilargemidcapnormal,mid_cap,True
+135744,KOTAK NIFTY 50 VALUE 20 ETF - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Kotak Nifty 50 Value 20 Etf - Of Income Distribution Cum Capital Withdrawal,kotaknifty50value20etfofincomedistributioncumcapitalwithdrawal,index_fund,True
+135853,HDFC NIFTY 50 ETF -,Hdfc Nifty 50 Etf -,hdfcnifty50etf,index_fund,True
+135854,HDFC BSE SENSEX ETF -,Hdfc Bse Sensex Etf -,hdfcbsesensexetf,index_fund,True
+135859,EDELWEISS ETF - NIFTY BANK,Edelweiss Etf - Nifty Bank,edelweissetfniftybank,index_fund,True
+136473,LIC MF NIFTY 100 ETF,Lic Mf Nifty 100 Etf,licmfnifty100etf,index_fund,True
+138307,PGIM INDIA LARGE CAP FUND -,Pgim India Large Cap Fund -,pgimlargecap,large_cap,True
+138308,PGIM INDIA LARGE CAP FUND -,Pgim India Large Cap Fund -,pgimlargecap,large_cap,True
+138312,PGIM INDIA LARGE CAP FUND - -,Pgim India Large Cap Fund - -,pgimlargecap,large_cap,True
+138313,PGIM INDIA LARGE CAP FUND - -,Pgim India Large Cap Fund - -,pgimlargecap,large_cap,True
+139430,SBI NIFTY 10 YR BENCHMARK G SEC ETF,Sbi Nifty 10 Yr Benchmark G Sec Etf,sbinifty10yrbenchmarkgsecetf,index_fund,True
+139455,ICICI PRUDENTIAL NIFTY50 VALUE 20 ETF,Icici Prudential Nifty50 Value 20 Etf,iciciprudentialnifty50value20etf,index_fund,True
+139496,NIPPON INDIA ETF NIFTY 8 13 YR G SEC LONG TERM GILT,Nippon India Etf Nifty 8 13 Yr G Sec Long Term Gilt,nipponetfnifty813yrgseclongtermgilt,index_fund,True
+139519,ICICI PRUDENTIAL BSE MIDCAP SELECT ETF,Icici Prudential Bse Midcap Select Etf,iciciprudentialbsemidcapselectetf,index_fund,True
+139527,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND -,Bank Of India Mid & Small Cap Equity & Debt Fund -,bankofmidsmallcapequitydebt,small_cap,True
+139528,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND -,Bank Of India Mid & Small Cap Equity & Debt Fund -,bankofmidsmallcapequitydebt,small_cap,True
+139529,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND -,Bank Of India Mid & Small Cap Equity & Debt Fund -,bankofmidsmallcapequitydebt,small_cap,True
+139530,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND -,Bank Of India Mid & Small Cap Equity & Debt Fund -,bankofmidsmallcapequitydebt,small_cap,True
+139581,ADITYA BIRLA SUN LIFE BSE SENSEX ETF,Aditya Birla Sun Life Bse Sensex Etf,adityabirlasunlifebsesensexetf,index_fund,True
+139839,BANDHAN NIFTY 50 ETF,Bandhan Nifty 50 Etf,bandhannifty50etf,index_fund,True
+139840,BANDHAN BSE SENSEX ETF,Bandhan Bse Sensex Etf,bandhanbsesensexetf,index_fund,True
+140084,NIPPON INDIA ETF NIFTY 50 BEES,Nippon India Etf Nifty 50 Bees,nipponetfnifty50bees,index_fund,True
+140085,NIPPON INDIA ETF NIFTY NEXT 50 JUNIOR BEES,Nippon India Etf Nifty Next 50 Junior Bees,nipponetfniftynext50juniorbees,index_fund,True
+140086,NIPPON INDIA ETF NIFTY 1D RATE LIQUID BEES - DAILY,Nippon India Etf Nifty 1D Rate Liquid Bees - Daily,nipponetfnifty1drateliquidbeesdaily,index_fund,True
+140087,NIPPON INDIA ETF NIFTY BANK BEES,Nippon India Etf Nifty Bank Bees,nipponetfniftybankbees,index_fund,True
+140088,NIPPON INDIA ETF GOLD BEES,Nippon India Etf Gold Bees,nipponetfgoldbees,index_fund,True
+140089,NIPPON INDIA ETF NIFTY PSU BANK BEES,Nippon India Etf Nifty Psu Bank Bees,nipponetfniftypsubankbees,index_fund,True
+140094,NIPPON INDIA ETF NIFTY 50 SHARIAH BEES,Nippon India Etf Nifty 50 Shariah Bees,nipponetfnifty50shariahbees,index_fund,True
+140095,NIPPON INDIA ETF HANG SENG BEES,Nippon India Etf Hang Seng Bees,nipponetfhangsengbees,index_fund,True
+140102,NIPPON INDIA ETF NIFTY INFRASTRUCTURE BEES,Nippon India Etf Nifty Infrastructure Bees,nipponetfniftyinfrastructurebees,index_fund,True
+140107,CPSE ETF,Cpse Etf,cpseetf,index_fund,True
+140172,EDELWEISS LARGE & MID CAP FUND - -,Edelweiss Large & Mid Cap Fund - -,edelweisslargemidcap,mid_cap,True
+140173,EDELWEISS LARGE AND MID CAP FUND - -,Edelweiss Large And Mid Cap Fund - -,edelweisslargeandmidcap,mid_cap,True
+140174,EDELWEISS LARGE AND MID CAP FUND - -,Edelweiss Large And Mid Cap Fund - -,edelweisslargeandmidcap,mid_cap,True
+140175,EDELWEISS LARGE & MID CAP FUND - -,Edelweiss Large & Mid Cap Fund - -,edelweisslargemidcap,mid_cap,True
+140225,EDELWEISS MID CAP FUND - -,Edelweiss Mid Cap Fund - -,edelweissmidcap,mid_cap,True
+140226,EDELWEISS MID CAP FUND - -,Edelweiss Mid Cap Fund - -,edelweissmidcap,mid_cap,True
+140227,EDELWEISS MID CAP FUND - -,Edelweiss Mid Cap Fund - -,edelweissmidcap,mid_cap,True
+140228,EDELWEISS MID CAP FUND - -,Edelweiss Mid Cap Fund - -,edelweissmidcap,mid_cap,True
+140353,EDELWEISS FLEXI CAP FUND - -,Edelweiss Flexi Cap Fund - -,edelweissflexicap,multi_cap,True
+140354,EDELWEISS FLEXI CAP FUND - -,Edelweiss Flexi Cap Fund - -,edelweissflexicap,multi_cap,True
+140355,EDELWEISS FLEXI CAP FUND - -,Edelweiss Flexi Cap Fund - -,edelweissflexicap,multi_cap,True
+140356,EDELWEISS FLEXI CAP FUND - -,Edelweiss Flexi Cap Fund - -,edelweissflexicap,multi_cap,True
+140809,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+140810,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+140811,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+140812,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechipincomedistributioncumcapitalwithdrawal,large_cap,True
+140813,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - HALF YEARLY - INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - Half Yearly - Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechiphalfyearlyincomedistributioncumcapitalwithdrawal,large_cap,True
+140814,GROWW LARGECAP FUND (FORMERLY KNOWN AS INDIABULLS BLUECHIP FUND)- - HALF YEARLY -INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL ( & ),Groww Largecap Fund (Formerly Known As Indiabulls Bluechip Fund)- - Half Yearly -Income Distribution Cum Capital Withdrawal ( & ),growwlargecapformerlyknownasindiabullsbluechiphalfyearlyincomedistributioncumcapitalwithdrawal,large_cap,True
+141223,MAHINDRA MANULIFE MULTI CAP FUND - -,Mahindra Manulife Multi Cap Fund - -,mahindramanulifemulticap,multi_cap,True
+141224,MAHINDRA MANULIFE MULTI CAP FUND - -,Mahindra Manulife Multi Cap Fund - -,mahindramanulifemulticap,multi_cap,True
+141225,MAHINDRA MANULIFE MULTI CAP FUND - -,Mahindra Manulife Multi Cap Fund - -,mahindramanulifemulticap,multi_cap,True
+141226,MAHINDRA MANULIFE MULTI CAP FUND - -,Mahindra Manulife Multi Cap Fund - -,mahindramanulifemulticap,multi_cap,True
+141247,UNION LARGECAP FUND - -,Union Largecap Fund - -,unionlargecap,large_cap,True
+141248,UNION LARGECAP FUND - -,Union Largecap Fund - -,unionlargecap,large_cap,True
+141249,UNION LARGECAP FUND - -,Union Largecap Fund - -,unionlargecap,large_cap,True
+141250,UNION LARGECAP FUND - -,Union Largecap Fund - -,unionlargecap,large_cap,True
+141411,NAVI LARGE & MIDCAP FUND -,Navi Large & Midcap Fund -,navilargemidcap,mid_cap,True
+141414,NAVI LARGE & MIDCAP FUND -,Navi Large & Midcap Fund -,navilargemidcap,mid_cap,True
+141415,NAVI LARGE & MIDCAP FUND - HALF YEARLY,Navi Large & Midcap Fund - Half Yearly,navilargemidcaphalfyearly,mid_cap,True
+141545,AXIS NIFTY 50 ETF,Axis Nifty 50 Etf,axisnifty50etf,index_fund,True
+141596,ICICI PRUDENTIAL NIFTY 100 LOW VOLATILITY 30 ETF,Icici Prudential Nifty 100 Low Volatility 30 Etf,iciciprudentialnifty100lowvolatility30etf,index_fund,True
+141665,UTI NIFTY NEXT 50 EXCHANGE TRADED FUND,Uti Nifty Next 50 Exchange Traded Fund,utiniftynext50exchangetraded,index_fund,True
+141839,ICICI PRUDENTIAL BSE SENSEX INDEX FUND - CUMULATIVE,Icici Prudential Bse Sensex Index Fund - Cumulative,iciciprudentialbsesensexindexcumulative,index_fund,True
+141840,ICICI PRUDENTIAL BSE SENSEX INDEX FUND -,Icici Prudential Bse Sensex Index Fund -,iciciprudentialbsesensexindex,index_fund,True
+141841,ICICI PRUDENTIAL BSE SENSEX INDEX FUND - - CUMULATIVE,Icici Prudential Bse Sensex Index Fund - - Cumulative,iciciprudentialbsesensexindexcumulative,index_fund,True
+141842,ICICI PRUDENTIAL BSE SENSEX INDEX FUND - -,Icici Prudential Bse Sensex Index Fund - -,iciciprudentialbsesensexindex,index_fund,True
+141875,DSP NIFTY 50 EQUAL WEIGHT INDEX FUND - -,Dsp Nifty 50 Equal Weight Index Fund - -,dspnifty50equalweightindex,index_fund,True
+141876,DSP NIFTY 50 EQUAL WEIGHT INDEX FUND - -,Dsp Nifty 50 Equal Weight Index Fund - -,dspnifty50equalweightindex,index_fund,True
+141877,DSP NIFTY 50 EQUAL WEIGHT INDEX FUND - -,Dsp Nifty 50 Equal Weight Index Fund - -,dspnifty50equalweightindex,index_fund,True
+141878,DSP NIFTY 50 EQUAL WEIGHT INDEX FUND - -,Dsp Nifty 50 Equal Weight Index Fund - -,dspnifty50equalweightindex,index_fund,True
+141925,AXIS FLEXI CAP FUND - -,Axis Flexi Cap Fund - -,axisflexicap,multi_cap,True
+141926,AXIS FLEXI CAP FUND - -,Axis Flexi Cap Fund - -,axisflexicap,multi_cap,True
+141927,AXIS FLEXI CAP FUND - -,Axis Flexi Cap Fund - -,axisflexicap,multi_cap,True
+141928,AXIS FLEXI CAP FUND - -,Axis Flexi Cap Fund - -,axisflexicap,multi_cap,True
+141957,BHARAT 22 ETF,Bharat 22 Etf,bharat22etf,index_fund,True
+142107,MAHINDRA MANULIFE MID CAP FUND- -,Mahindra Manulife Mid Cap Fund- -,mahindramanulifemidcap,mid_cap,True
+142108,MAHINDRA MANULIFE MID CAP FUND - -,Mahindra Manulife Mid Cap Fund - -,mahindramanulifemidcap,mid_cap,True
+142109,MAHINDRA MANULIFE MID CAP FUND - -,Mahindra Manulife Mid Cap Fund - -,mahindramanulifemidcap,mid_cap,True
+142110,MAHINDRA MANULIFE MID CAP FUND - -,Mahindra Manulife Mid Cap Fund - -,mahindramanulifemidcap,mid_cap,True
+142589,DSP NIFTY 1D RATE LIQUID ETF,Dsp Nifty 1D Rate Liquid Etf,dspnifty1drateliquidetf,index_fund,True
+143247,ICICI PRUDENTIAL BSE 500 ETF,Icici Prudential Bse 500 Etf,iciciprudentialbse500etf,index_fund,True
+143340,UTI NIFTY NEXT 50 INDEX FUND - -,Uti Nifty Next 50 Index Fund - -,utiniftynext50index,index_fund,True
+143341,UTI NIFTY NEXT 50 INDEX FUND - -,Uti Nifty Next 50 Index Fund - -,utiniftynext50index,index_fund,True
+143787,NAVI FLEXI CAP FUND - -,Navi Flexi Cap Fund - -,naviflexicap,multi_cap,True
+143788,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+143789,NAVI FLEXI CAP FUND - NORMAL,Navi Flexi Cap Fund - Normal,naviflexicapnormal,multi_cap,True
+143790,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+143791,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+143792,NAVI FLEXI CAP FUND - NORMAL,Navi Flexi Cap Fund - Normal,naviflexicapnormal,multi_cap,True
+143793,NAVI FLEXI CAP FUND - -,Navi Flexi Cap Fund - -,naviflexicap,multi_cap,True
+143794,NAVI FLEXI CAP FUND - HALF YEARLY,Navi Flexi Cap Fund - Half Yearly,naviflexicaphalfyearly,multi_cap,True
+143795,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+143796,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+143797,NAVI FLEXI CAP FUND - HALF YEARLY,Navi Flexi Cap Fund - Half Yearly,naviflexicaphalfyearly,multi_cap,True
+143798,NAVI FLEXI CAP FUND -,Navi Flexi Cap Fund -,naviflexicap,multi_cap,True
+144543,TATA FLEXI CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Tata Flexi Cap Fund - Of Income Distribution Cum Capital Withdrawal,tataflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+144545,TATA FLEXI CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Tata Flexi Cap Fund - Of Income Distribution Cum Capital Withdrawal,tataflexicapofincomedistributioncumcapitalwithdrawal,multi_cap,True
+144546,TATA FLEXI CAP FUND- -,Tata Flexi Cap Fund- -,tataflexicap,multi_cap,True
+144548,TATA FLEXI CAP FUND - -,Tata Flexi Cap Fund - -,tataflexicap,multi_cap,True
+144587,ICICI PRUDENTIAL NIFTY NEXT 50 ETF,Icici Prudential Nifty Next 50 Etf,iciciprudentialniftynext50etf,index_fund,True
+144902,SHRIRAM FLEXI CAP FUND -,Shriram Flexi Cap Fund -,shriramflexicap,multi_cap,True
+144903,SHRIRAM FLEXI CAP FUND - -,Shriram Flexi Cap Fund - -,shriramflexicap,multi_cap,True
+144905,SHRIRAM FLEXI CAP FUND -,Shriram Flexi Cap Fund -,shriramflexicap,multi_cap,True
+144906,SHRIRAM FLEXI CAP FUND - -,Shriram Flexi Cap Fund - -,shriramflexicap,multi_cap,True
+144916,SBI BSE SENSEX NEXT 50 ETF,Sbi Bse Sensex Next 50 Etf,sbibsesensexnext50etf,index_fund,True
+144947,ICICI PRUDENTIAL BSE LIQUID RATE ETF -,Icici Prudential Bse Liquid Rate Etf -,iciciprudentialbseliquidrateetf,index_fund,True
+145109,AXIS LARGE & MID CAP FUND - -,Axis Large & Mid Cap Fund - -,axislargemidcap,mid_cap,True
+145110,AXIS LARGE & MID CAP FUND - -,Axis Large & Mid Cap Fund - -,axislargemidcap,mid_cap,True
+145111,AXIS LARGE & MID CAP FUND - -,Axis Large & Mid Cap Fund - -,axislargemidcap,mid_cap,True
+145112,AXIS LARGE & MID CAP FUND - -,Axis Large & Mid Cap Fund - -,axislargemidcap,mid_cap,True
+145137,INVESCO INDIA SMALLCAP FUND - -,Invesco India Smallcap Fund - -,invescosmallcap,small_cap,True
+145138,INVESCO INDIA SMALLCAP FUND - - ( / ),Invesco India Smallcap Fund - - ( / ),invescosmallcap,small_cap,True
+145139,INVESCO INDIA SMALLCAP FUND - -,Invesco India Smallcap Fund - -,invescosmallcap,small_cap,True
+145140,INVESCO INDIA SMALLCAP FUND - - ( / ),Invesco India Smallcap Fund - - ( / ),invescosmallcap,small_cap,True
+145206,TATA SMALL CAP FUND- -,Tata Small Cap Fund- -,tatasmallcap,small_cap,True
+145208,TATA SMALL CAP FUND- -,Tata Small Cap Fund- -,tatasmallcap,small_cap,True
+145209,TATA SMALL CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Tata Small Cap Fund - Of Income Distribution Cum Capital Withdrawal,tatasmallcapofincomedistributioncumcapitalwithdrawal,small_cap,True
+145210,TATA SMALL CAP FUND - OF INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,Tata Small Cap Fund - Of Income Distribution Cum Capital Withdrawal,tatasmallcapofincomedistributioncumcapitalwithdrawal,small_cap,True
+145633,MIRAE ASSET NIFTY 50 ETF,Mirae Asset Nifty 50 Etf,miraeassetnifty50etf,index_fund,True
+145648,SBI NIFTY 200 QUALITY 30 ETF,Sbi Nifty 200 Quality 30 Etf,sbinifty200quality30etf,index_fund,True
+145675,BANK OF INDIA SMALL CAP FUND,Bank Of India Small Cap Fund,bankofsmallcap,small_cap,True
+145676,BANK OF INDIA SMALL CAP FUND,Bank Of India Small Cap Fund,bankofsmallcap,small_cap,True
+145677,BANK OF INDIA SMALL CAP FUND,Bank Of India Small Cap Fund,bankofsmallcap,small_cap,True
+145678,BANK OF INDIA SMALL CAP FUND,Bank Of India Small Cap Fund,bankofsmallcap,small_cap,True
+145881,ADITYA BIRLA SUNLIFE NIFTY NEXT 50 ETF,Aditya Birla Sunlife Nifty Next 50 Etf,adityabirlasunlifeniftynext50etf,index_fund,True
