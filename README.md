@@ -7,6 +7,12 @@
 
 The system utilizes **XGBoost** for CAGR prediction and **SHAP** for interpretability, wrapped in a **Streamlit** interface with rule-based conversational agents.
 
+
+---
+
+##  Live App  
+👉 [Click here to try the Streamlit App](https://fundsight-ai.streamlit.app/)
+
 ---
 
 ## 🏗️ Project Philosophy
@@ -167,4 +173,5 @@ Run the application : streamlit run str_app.py
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
+
 
