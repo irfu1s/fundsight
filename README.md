@@ -141,28 +141,18 @@ streamlit run str_app.py
 
 ## 🚀 Setup & Installation
 
-Clone the repository:
+Clone the repository :  git clone https://github.com/your-username/fundsight-ai.git  
 
-git clone https://github.com/your-username/fundsight-ai.git  
 cd fundsight-ai  
 
-Create a virtual environment:
+Create a virtual environment :  python -m venv venv  
 
-python -m venv venv  
+Windows :   .\venv\Scripts\activate  
+Mac / Linux :   source venv/bin/activate  
 
-Windows:  
-.\venv\Scripts\activate  
+Install dependencies : pip install -r requirements.txt  
 
-Mac / Linux:  
-source venv/bin/activate  
-
-Install dependencies:
-
-pip install -r requirements.txt  
-
-Run the application:
-
-streamlit run str_app.py  
+Run the application : streamlit run str_app.py  
 
 ---
 
@@ -177,3 +167,4 @@ streamlit run str_app.py
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
+
