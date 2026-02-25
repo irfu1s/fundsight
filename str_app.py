@@ -17,15 +17,51 @@ from app.agents.smalltalk import SmallTalkAgent
 from app.agents.fallback import FallbackAgent
 
 # --- 1. CONFIGURATION ---
-st.set_page_config(page_title="Portfolia", page_icon="📈", layout="centered") 
-st.title("📈 Portfolia 📈")
+# Switched to wide layout so it utilizes full screen space
+st.set_page_config(page_title="FundSight AI", page_icon="📈", layout="wide") 
+
+# --- CUSTOM CSS FOR STYLING ---
+st.markdown("""
+    <style>
+    /* 1. Global Font Size Reduction (14px) */
+    p, li, span, div[data-testid="stMarkdownContainer"] p {
+        font-size: 14px !important;
+    }
+    
+    /* 2. Center the main heading */
+    .main-header {
+        text-align: center;
+        font-size: 2.5rem !important;
+        font-weight: 700;
+        margin-bottom: 2rem;
+        margin-top: -2rem;
+    }
+
+    /* 3. Chat Input Styling (Shade awesomeness & restricted width) */
+    [data-testid="stChatInput"] {
+        box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4) !important; /* Floating shadow */
+        border-radius: 24px !important;
+        border: 1px solid rgba(255,255,255,0.05) !important;
+        max-width: 750px !important; /* Prevents it from being too wide */
+        margin: 0 auto !important; /* Centers it horizontally */
+        background-color: #1E1E1E !important;
+    }
+    
+    /* Shrink the text inside the chat input */
+    [data-testid="stChatInput"] textarea {
+        font-size: 14px !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+# Centered Title
+st.markdown('<div class="main-header">📈 FundSight AI 📈</div>', unsafe_allow_html=True)
 
 # --- 2. CONFIGURE GEMINI ---
-# We use the model name that appeared in your list: 'models/gemini-flash-latest'
 if "GEMINI_API_KEY" in st.secrets:
     genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
     try:
-        # ✅ FIX: Use the model from your available list
+        # Use the model from your available list
         model = genai.GenerativeModel('models/gemini-flash-latest')
     except Exception as e:
         st.error(f"Error loading Gemini: {e}")
@@ -61,7 +97,6 @@ def display_message(content, unique_key):
         if "images" in content and content["images"]:
             for i, img_path in enumerate(content["images"]):
                 if os.path.exists(img_path):
-                    # ✅ FIX: Updated to 'width="content"' to fix warning
                     st.image(img_path, caption="Analysis", width="content")
         
         if 'data' in content and not content['data'].empty:
@@ -70,7 +105,6 @@ def display_message(content, unique_key):
             if "Year" in df.columns and "Value" in df.columns:
                 st.subheader("📈 Wealth Growth")
                 fig = px.line(df, x="Year", y="Value", title="Projected Growth", markers=True)
-                # ✅ FIX: Updated to 'width="stretch"' to fix warning
                 st.plotly_chart(fig, width="stretch", key=f"line_chart_{unique_key}")
 
             elif "Scheme Name" in df.columns:
@@ -89,7 +123,6 @@ def display_message(content, unique_key):
                                  barmode="group", title="Investment vs Return",
                                  color_discrete_map={"Invested": "#FFA726", "Final Value": "#66BB6A"})
                     
-                    # ✅ FIX: Updated to 'width="stretch"' to fix warning
                     st.plotly_chart(fig, width="stretch", key=f"bar_chart_{unique_key}")
     else:
         st.markdown(content)

@@ -8,6 +8,6 @@ seaborn
 plotly
 requests
 joblib
-streamlit
+streamlit>=1.30.0
 tabulate
 google-generativeai
