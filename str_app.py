@@ -16,52 +16,30 @@ from app.agents.explanation import ExplanationAgent
 from app.agents.smalltalk import SmallTalkAgent
 from app.agents.fallback import FallbackAgent
 
-# --- 1. CONFIGURATION ---
-# Switched to wide layout so it utilizes full screen space
-st.set_page_config(page_title="FundSight AI", page_icon="📈", layout="wide") 
+# --- 1. CONFIGURATION (Centered Layout) ---
+st.set_page_config(page_title="Portfolia", page_icon="📈", layout="centered")
 
-# --- CUSTOM CSS FOR STYLING ---
+# --- CUSTOM CSS FOR FONT SIZE (12px) ---
 st.markdown("""
     <style>
-    /* 1. Global Font Size Reduction (14px) */
+    /* Force font size to 12px for all main text elements */
     p, li, span, div[data-testid="stMarkdownContainer"] p {
-        font-size: 14px !important;
+        font-size: 12px !important;
     }
-    
-    /* 2. Center the main heading */
-    .main-header {
+    /* Keep title slightly larger but controlled */
+    h1 {
+        font-size: 24px !important;
         text-align: center;
-        font-size: 2.5rem !important;
-        font-weight: 700;
-        margin-bottom: 2rem;
-        margin-top: -2rem;
-    }
-
-    /* 3. Chat Input Styling (Shade awesomeness & restricted width) */
-    [data-testid="stChatInput"] {
-        box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4) !important; /* Floating shadow */
-        border-radius: 24px !important;
-        border: 1px solid rgba(255,255,255,0.05) !important;
-        max-width: 750px !important; /* Prevents it from being too wide */
-        margin: 0 auto !important; /* Centers it horizontally */
-        background-color: #1E1E1E !important;
-    }
-    
-    /* Shrink the text inside the chat input */
-    [data-testid="stChatInput"] textarea {
-        font-size: 14px !important;
     }
     </style>
 """, unsafe_allow_html=True)
 
-# Centered Title
-st.markdown('<div class="main-header">📈 FundSight AI 📈</div>', unsafe_allow_html=True)
+st.title("📈 Portfolia 📈")
 
 # --- 2. CONFIGURE GEMINI ---
 if "GEMINI_API_KEY" in st.secrets:
     genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
     try:
-        # Use the model from your available list
         model = genai.GenerativeModel('models/gemini-flash-latest')
     except Exception as e:
         st.error(f"Error loading Gemini: {e}")
@@ -88,7 +66,7 @@ if "backend_state" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# --- 5. DISPLAY LOGIC ---
+# --- 5. DISPLAY LOGIC (Updated for 2026 Syntax) ---
 def display_message(content, unique_key):
     if isinstance(content, dict):
         if "text" in content:
@@ -97,6 +75,7 @@ def display_message(content, unique_key):
         if "images" in content and content["images"]:
             for i, img_path in enumerate(content["images"]):
                 if os.path.exists(img_path):
+                    # ✅ 2026 Update: Changed to width="content"
                     st.image(img_path, caption="Analysis", width="content")
         
         if 'data' in content and not content['data'].empty:
@@ -105,6 +84,7 @@ def display_message(content, unique_key):
             if "Year" in df.columns and "Value" in df.columns:
                 st.subheader("📈 Wealth Growth")
                 fig = px.line(df, x="Year", y="Value", title="Projected Growth", markers=True)
+                # ✅ 2026 Update: Changed to width="stretch"
                 st.plotly_chart(fig, width="stretch", key=f"line_chart_{unique_key}")
 
             elif "Scheme Name" in df.columns:
@@ -123,6 +103,7 @@ def display_message(content, unique_key):
                                  barmode="group", title="Investment vs Return",
                                  color_discrete_map={"Invested": "#FFA726", "Final Value": "#66BB6A"})
                     
+                    # ✅ 2026 Update: Changed to width="stretch"
                     st.plotly_chart(fig, width="stretch", key=f"bar_chart_{unique_key}")
     else:
         st.markdown(content)
@@ -140,21 +121,24 @@ if user_input := st.chat_input("Ask about SIPs, funds, or returns..."):
 
     current_state = st.session_state.backend_state
     
-    # Pass model to router for smart intent detection
+    # Process logic
     intent = route(user_input, current_state, model=model)
     
-    if intent == "clarify":
-        word_used = "SIP/Lumpsum"
-        if "one" in user_input.lower() or "lump" in user_input.lower():
-            word_used = "One-Time Investment"
-        elif "sip" in user_input.lower():
-            word_used = "SIP"
-        reply = f"Do you want to **Calculate Returns** for {word_used}, or get a **Recommendation**?"
-    else:
-        agent = agents.get(intent, agents["fallback"])
-        reply = agent.handle(user_input, current_state)
-
     with st.chat_message("assistant"):
+        with st.status("✨ Portfolia is thinking...", expanded=False) as status:
+            if intent == "clarify":
+                word_used = "SIP/Lumpsum"
+                if "one" in user_input.lower() or "lump" in user_input.lower():
+                    word_used = "One-Time Investment"
+                elif "sip" in user_input.lower():
+                    word_used = "SIP"
+                reply = f"Do you want to **Calculate Returns** for {word_used}, or get a **Recommendation**?"
+            else:
+                agent = agents.get(intent, agents["fallback"])
+                reply = agent.handle(user_input, current_state)
+            
+            status.update(label="Analysis complete!", state="complete", expanded=False)
+
         new_msg_id = len(st.session_state.messages)
         display_message(reply, unique_key=f"new_{new_msg_id}")
         
