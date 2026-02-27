@@ -174,4 +174,10 @@ Run the application : streamlit run str_app.py
 
 This project is open-source and available under the **MIT License**.
 
+---
 
+## 👤 Author
+
+**Irfan**  
+Data Science Undergraduate  
+Creator of *FundSight AI – Intelligent Mutual Fund Advisory & Investment Simulation Engine*
