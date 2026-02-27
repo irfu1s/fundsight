@@ -20,16 +20,22 @@ from app.agents.fallback import FallbackAgent
 st.set_page_config(page_title="Portfolia", page_icon="📈", layout="centered")
 
 # --- CUSTOM CSS FOR FONT SIZE (12px) ---
+# --- CUSTOM CSS FOR FONT SIZE (12px) & LARGE TITLE ---
 st.markdown("""
     <style>
-    /* Force font size to 16px for all main text elements */
+    /* 1. Force font size to 16px for all main text elements */
     p, li, span, div[data-testid="stMarkdownContainer"] p {
         font-size: 16px !important;
     }
-    /* Keep title slightly larger but controlled */
+
+    /* 2. CRITICAL FIX: Enhanced Title Size */
     h1 {
-        font-size: 32px !important;
+        font-size: 48px !important; /* Doubled the size from 24px */
+        font-weight: 800 !important; /* Made it extra bold */
         text-align: center;
+        color: #FFFFFF;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Adds professional depth */
+        margin-bottom: 30px !important;
     }
     </style>
 """, unsafe_allow_html=True)
