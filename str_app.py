@@ -22,13 +22,13 @@ st.set_page_config(page_title="Portfolia", page_icon="📈", layout="centered")
 # --- CUSTOM CSS FOR FONT SIZE (12px) ---
 st.markdown("""
     <style>
-    /* Force font size to 12px for all main text elements */
+    /* Force font size to 14px for all main text elements */
     p, li, span, div[data-testid="stMarkdownContainer"] p {
         font-size: 12px !important;
     }
     /* Keep title slightly larger but controlled */
     h1 {
-        font-size: 24px !important;
+        font-size: 28px !important;
         text-align: center;
     }
     </style>
