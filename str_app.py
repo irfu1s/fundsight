@@ -17,30 +17,55 @@ from app.agents.smalltalk import SmallTalkAgent
 from app.agents.fallback import FallbackAgent
 
 # --- 1. CONFIGURATION (Centered Layout) ---
-st.set_page_config(page_title="Fundsight AI", page_icon="📈", layout="centered")
+st.set_page_config(page_title="fundsight", page_icon="📈", layout="centered")
 
-# --- CUSTOM CSS FOR FONT SIZE (12px) ---
-# --- CUSTOM CSS FOR FONT SIZE (12px) & LARGE TITLE ---
+# --- CUSTOM CSS FOR PREMIUM UI ---
 st.markdown("""
     <style>
-    /* 1. Force font size to 16px for all main text elements */
+    /* 1. Global Typography: Crisp, high-contrast text */
+    html, body, [class*="css"] {
+        -webkit-font-smoothing: antialiased;
+    }
     p, li, span, div[data-testid="stMarkdownContainer"] p {
-        font-size: 16px !important;
+        font-size: 15px !important;
+        line-height: 1.6 !important;
+        color: #E2E8F0 !important;
     }
 
-    /* 2. CRITICAL FIX: Enhanced Title Size */
+    /* 2. Bold, Centered Title */
     h1 {
-        font-size: 56px !important; /* Doubled the size from 24px */
-        font-weight: 800 !important; /* Made it extra bold */
+        font-size: 48px !important;
+        font-weight: 800 !important;
         text-align: center;
         color: #FFFFFF;
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Adds professional depth */
+        text-shadow: 0px 4px 10px rgba(0,0,0,0.4);
         margin-bottom: 30px !important;
+    }
+
+    /* 3. Sleek, Distinct Chat Bubbles */
+    [data-testid="stChatMessage"] {
+        background-color: #161B22 !important; /* Dark grey background */
+        border-radius: 15px !important;
+        padding: 15px 20px !important;
+        margin-bottom: 15px !important;
+        border: 1px solid #30363D !important; /* Subtle border */
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
+    }
+
+    /* 4. Oval, Floating Chat Input Box */
+    [data-testid="stChatInput"] {
+        border-radius: 30px !important; /* Makes it a pill shape */
+        border: 1px solid #30363D !important;
+        background-color: #0D1117 !important;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.3) !important;
+    }
+    [data-testid="stChatInput"] textarea {
+        font-size: 15px !important;
     }
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📈 Portfolia 📈")
+st.title("📈 Fundsight AI 📈")
 
 # --- 2. CONFIGURE GEMINI ---
 if "GEMINI_API_KEY" in st.secrets:
@@ -72,7 +97,7 @@ if "backend_state" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# --- 5. DISPLAY LOGIC (Updated for 2026 Syntax) ---
+# --- 5. DISPLAY LOGIC ---
 def display_message(content, unique_key):
     if isinstance(content, dict):
         if "text" in content:
@@ -81,7 +106,6 @@ def display_message(content, unique_key):
         if "images" in content and content["images"]:
             for i, img_path in enumerate(content["images"]):
                 if os.path.exists(img_path):
-                    # ✅ 2026 Update: Changed to width="content"
                     st.image(img_path, caption="Analysis", width="content")
         
         if 'data' in content and not content['data'].empty:
@@ -89,8 +113,9 @@ def display_message(content, unique_key):
             
             if "Year" in df.columns and "Value" in df.columns:
                 st.subheader("📈 Wealth Growth")
-                fig = px.line(df, x="Year", y="Value", title="Projected Growth", markers=True)
-                # ✅ 2026 Update: Changed to width="stretch"
+                # Updated with Plotly Dark Template
+                fig = px.line(df, x="Year", y="Value", title="Projected Growth", markers=True, template="plotly_dark")
+                fig.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)') # Transparent background
                 st.plotly_chart(fig, width="stretch", key=f"line_chart_{unique_key}")
 
             elif "Scheme Name" in df.columns:
@@ -105,11 +130,13 @@ def display_message(content, unique_key):
                     df_melted = df.melt(id_vars=["Scheme Name"], value_vars=["Invested", "Final Value"], 
                                         var_name="Type", value_name="Amount")
                     
+                    # Updated with Plotly Dark Template
                     fig = px.bar(df_melted, x="Scheme Name", y="Amount", color="Type", 
                                  barmode="group", title="Investment vs Return",
-                                 color_discrete_map={"Invested": "#FFA726", "Final Value": "#66BB6A"})
+                                 color_discrete_map={"Invested": "#FFA726", "Final Value": "#66BB6A"},
+                                 template="plotly_dark")
+                    fig.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)') # Transparent background
                     
-                    # ✅ 2026 Update: Changed to width="stretch"
                     st.plotly_chart(fig, width="stretch", key=f"bar_chart_{unique_key}")
     else:
         st.markdown(content)
@@ -131,7 +158,8 @@ if user_input := st.chat_input("Ask about SIPs, funds, or returns..."):
     intent = route(user_input, current_state, model=model)
     
     with st.chat_message("assistant"):
-        with st.status("✨ Portfolia is thinking...", expanded=False) as status:
+        # Classic spinner is back!
+        with st.spinner("Analyzing data..."):
             if intent == "clarify":
                 word_used = "SIP/Lumpsum"
                 if "one" in user_input.lower() or "lump" in user_input.lower():
@@ -143,8 +171,7 @@ if user_input := st.chat_input("Ask about SIPs, funds, or returns..."):
                 agent = agents.get(intent, agents["fallback"])
                 reply = agent.handle(user_input, current_state)
             
-            status.update(label="Analysis complete!", state="complete", expanded=False)
-
+        # Display the actual result after the spinner disappears
         new_msg_id = len(st.session_state.messages)
         display_message(reply, unique_key=f"new_{new_msg_id}")
         
