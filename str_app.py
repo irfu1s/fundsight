@@ -17,7 +17,7 @@ from app.agents.smalltalk import SmallTalkAgent
 from app.agents.fallback import FallbackAgent
 
 # --- 1. CONFIGURATION (Centered Layout) ---
-st.set_page_config(page_title="Portfolia", page_icon="📈", layout="centered")
+st.set_page_config(page_title="Fundsight AI", page_icon="📈", layout="centered")
 
 # --- CUSTOM CSS FOR FONT SIZE (12px) ---
 # --- CUSTOM CSS FOR FONT SIZE (12px) & LARGE TITLE ---
@@ -30,7 +30,7 @@ st.markdown("""
 
     /* 2. CRITICAL FIX: Enhanced Title Size */
     h1 {
-        font-size: 48px !important; /* Doubled the size from 24px */
+        font-size: 56px !important; /* Doubled the size from 24px */
         font-weight: 800 !important; /* Made it extra bold */
         text-align: center;
         color: #FFFFFF;
